@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #fff;
+  font-family: Arial, sans-serif;
+}
+
+form {
+  text-align: center;
+  margin: 20px auto;
+}
+
+form input {
+  margin: 10px 0;
+}
+
+header {
+  border-radius: 5px solid black;
+  background-color: gray;
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+.main-width {
+  width: 800px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+.main-width a {
+  float: left;
+  width: 50%;
+  font-size: 150%;
+  line-height: 50px;
+  display: block;
+}
+
+.main-width ul {
+  float: left;
+  width: 50%;
+  list-style: none;
+}
+
+.main-width ul:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+.main-width li {
+  float: left;
+  margin-right: 20px;
+  font-size: 100%;
+  line-height: 50px;
+}
+
+.main-width:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+.dialog {
+  width: 300px;
+  background: green;
+  border: 1px solid #000;
+  margin: 40px auto;
+  padding: 10px;
+}
+
+.dialog__title {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+.dialog__text {
+  font-size: 14px;
+}
+
+/*# sourceMappingURL=index.43b7a0fe.css.map */

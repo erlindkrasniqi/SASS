@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["01_Day_1/01_Sass_basics/01_First_steps_in_SCSS/scss/main.scss"],"sourcesContent":["h2{\r\n    color: green;\r\n    font-size: 50px;\r\n}\r\n"],"names":[],"version":3,"file":"index.6bc6f8df.css.map","sourceRoot":"/__parcel_source_root/"}

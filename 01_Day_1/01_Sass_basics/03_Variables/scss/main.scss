@@ -16,14 +16,14 @@ main {
 
 div {
   border-radius: 5px;
-  width: 100px;
-  height: 100px;
+  width: $main-size;
+  height: $main-size;
   padding: 20px;
   margin: 40px;
   font-size: 35px;
   font-family: 'Patrick Hand', cursive;
   transition: 0.4s transform;
-  color: #fff;
+  color: $main-color;
   display: flex;
   justify-content: center;
   align-items: center;

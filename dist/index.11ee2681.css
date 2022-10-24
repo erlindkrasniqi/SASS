@@ -1,0 +1,76 @@
+header {
+  border: 1px solid #000;
+}
+
+header .main-width {
+  width: 1000px;
+}
+
+header .main-width .menu {
+  padding-left: 10px;
+  list-style-type: none;
+  display: flex;
+}
+
+header .main-width .menu li:first-child {
+  color: red;
+  font-weight: bold;
+}
+
+header {
+  border: 2px solid #00f;
+}
+
+header .main-width {
+  width: 1000px;
+}
+
+header .main-width .menu {
+  flex-direction: row;
+  padding-left: 10px;
+  display: flex;
+}
+
+header .main-width li {
+  background-color: #1dff1d;
+}
+
+section.main-width .menu2 li {
+  cursor: pointer;
+}
+
+section.main-width .menu2 li:first-child {
+  color: orange;
+}
+
+section.main-width .menu2 li:last-child {
+  color: green;
+}
+
+section.main-width .menu2 li:hover {
+  color: red;
+}
+
+footer .main-width .menu {
+  justify-content: flex-start;
+  display: flex;
+}
+
+footer .main-width .menu li {
+  cursor: pointer;
+  list-style: none;
+}
+
+footer .main-width .menu li:last-child {
+  margin-left: auto;
+}
+
+footer .main-width .menu li:hover {
+  color: #00f;
+}
+
+footer .main-width .menu li:nth-child(2) {
+  padding-left: 20px;
+}
+
+/*# sourceMappingURL=index.11ee2681.css.map */

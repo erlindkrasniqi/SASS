@@ -3,7 +3,42 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+@mixin dialogBox ($backgroundColor, $width) {
+  content: ' ';
+  width: $width;
+  height: $width;
+  background-color: $backgroundColor;
+  border: 1px solid black;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform:translate(-50%,-50%) rotate(45deg);
+}
+@mixin disabledHover {
+  transform: scale(2) rotate (45deg);
+  @content
+}
+.dialog {
+  width: 300px;
+  padding: 10px;
+  background: green;
+  border: 1px solid black;
+  margin: 40px auto;
+  position: relative;
+    &::after{
+      @include dialogBox(green,20px)
+    }
+    button{
+      transform: rotate(-45deg);
+      &:hover{
+        @include disabledHover(){
+          background-color: brown;
+          color: #fff;
+          transform: rotate(45deg);
+        }
+      }
+    }
+}
 body {
   font-family: 'Arial', sans-serif;
   background: white;
@@ -64,13 +99,10 @@ header {
 }
 
 
-.dialog {
-  width: 300px;
-  padding: 10px;
-  background: green;
-  border: 1px solid black;
-  margin: 40px auto;
-}
+
+// .dialog {
+//   @include dialogBox(500,green )
+// }
 
 .dialog__title {
   font-size: 30px;

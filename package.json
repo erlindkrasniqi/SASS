@@ -1,9 +1,8 @@
 {
   "name": "sass",
   "version": "1.0.0",
-  "source": "01_Day_1/01_Sass_basics/01_First_steps_in_SCSS/index.html",
+  "source": "01_Day_1/04_Mixins/03_Exercise_3/index.html",
   "description": "![Coders-Lab-1920px-no-background](https://user-images.githubusercontent.com/30623667/104709394-2cabee80-571f-11eb-9518-ea6a794e558e.png)",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +18,7 @@
   },
   "homepage": "https://github.com/erlindkrasniqi/SASS#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
     "parcel": "^2.6.0"
   }
 }

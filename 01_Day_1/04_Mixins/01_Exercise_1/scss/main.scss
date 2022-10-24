@@ -3,6 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+@mixin headerFont($font) {
+  font-size: $font;
+  border-radius: 5px solid black;
+  background-color: grey;
+}
 
 body {
   font-family: 'Arial', sans-serif;
@@ -20,6 +25,7 @@ form input {
 
 header {
   margin: 20px 0;
+  @include headerFont(20px);
 }
 
 .main-width {
