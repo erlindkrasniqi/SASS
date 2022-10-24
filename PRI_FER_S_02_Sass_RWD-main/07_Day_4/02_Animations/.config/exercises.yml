@@ -1,0 +1,5 @@
+exercises:
+    1_Bear: { max_points: 0, disabled: true, translations: { en: 1_Bear } }
+    2_Exercises: { max_points: 0, disabled: true, translations: { en: 2_Exercises } }
+    3_Zombie: { max_points: 0, disabled: true, translations: { en: 3_Zombie } }
+    4_Rocket: { max_points: 0, disabled: true, translations: { en: 4_Rocket } }

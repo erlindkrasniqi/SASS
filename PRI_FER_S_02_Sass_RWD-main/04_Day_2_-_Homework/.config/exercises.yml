@@ -1,0 +1,3 @@
+exercises:
+    '1_Heading sizes': { max_points: 0, disabled: true, translations: { en: '1_Heading sizes' } }
+    2_Units: { max_points: 0, disabled: true, translations: { en: 2_Units } }

@@ -1,0 +1,4 @@
+exercises:
+    '1_First steps in SCSS': { max_points: 0, disabled: true, translations: { en: '1_First steps in SCSS' } }
+    '2_Value change in CSS': { max_points: 0, disabled: true, translations: { en: '2_Value change in CSS' } }
+    3_Variables: { max_points: 0, disabled: true, translations: { en: 3_Variables } }
