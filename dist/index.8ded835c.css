@@ -1,0 +1,9 @@
+body .list li:hover {
+  cursor: pointer;
+  background-color: #30fc30;
+  border: 1px dotted #000;
+  display: inline-block;
+  position: relative;
+}
+
+/*# sourceMappingURL=index.8ded835c.css.map */

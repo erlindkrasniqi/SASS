@@ -1,0 +1,16 @@
+@mixin setTooltip ($main-color) {
+    position: relative;
+    display: inline-block;
+    border: 1px dotted black;
+    cursor: pointer;
+    background-color: $main-color;
+}
+body {
+    .list {
+        li {
+        &:hover{
+            @include setTooltip (rgb(48, 252, 48));
+            }
+        }
+    } 
+}
