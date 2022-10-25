@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAGA","sources":["03_Day_2/05_Introduction_to_RWD_and_units/04_Exercise_4/scss/main.scss"],"sourcesContent":["html {\r\n    font-size: 8px;\r\n}\r\np {\r\n    font-size: 3rem;\r\n}"],"names":[],"version":3,"file":"index.859b1a76.css.map","sourceRoot":"/__parcel_source_root/"}

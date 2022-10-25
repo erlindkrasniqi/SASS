@@ -1,0 +1,12 @@
+.centered_text {
+  position: relative;
+}
+
+.centered_text h1 {
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+}
+
+/*# sourceMappingURL=index.cffbb8e7.css.map */

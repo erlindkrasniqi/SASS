@@ -1,0 +1,36 @@
+@mixin drawItem($shape, $background) {
+    @if $shape == circle {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        background-color: $background;
+    }
+    @else if $shape == rectangle {
+        width: 200px;
+        height: 200px;
+        background-color: $background;
+    }
+    @else {
+        width: 400px;
+        height: 400px;
+    }
+}
+.draw-container {
+    @include drawItem(circle, red);
+}
+
+// @mixin drawItem($shape, $background) {
+//     @if $shape == circle {
+//       width: 100px;
+//       height: 100px;
+//       border-radius: 50%;
+//       background-color: $background;
+//     } @else if $shape == rectangle {
+//       width: 200px;
+//       height: 200px;
+//       background-color: $background;
+//     }
+//   }
+//   .draw-container {
+//     @include drawItem(circle, red);
+//   }

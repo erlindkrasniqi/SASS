@@ -1,0 +1,14 @@
+@use "sass:map";
+@use "sass:list";
+@use "sass:color";
+
+$ngjyra1: rgb(0, 255, 8);
+$ngjyra2: #ff0000;
+
+
+// @function test($color) {
+//     @return color.mix(ngjyrat);
+// }
+.content {
+    background-color: color.mix($ngjyra1, $ngjyra2);
+}

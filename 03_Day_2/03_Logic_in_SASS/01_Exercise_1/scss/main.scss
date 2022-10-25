@@ -1,0 +1,22 @@
+@use "sass:map";
+@use "sass:list";
+@use "sass:color";
+
+h1{
+    background-color: color.mix(tomato, cornflowerblue, 10%);
+}
+h2{
+    background-color: color.mix(tomato, cornflowerblue, 20%);
+}
+h3{
+    background-color: color.mix(tomato, cornflowerblue, 30%);
+}
+h4{
+    background-color: color.mix(tomato, cornflowerblue, 40%);
+}
+h5{
+    background-color: color.mix(tomato, cornflowerblue, 50%);
+}
+h6{
+    background-color: color.mix(tomato, cornflowerblue, 60%);
+}

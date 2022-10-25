@@ -1,0 +1,11 @@
+.images {
+  width: 80%;
+  border: 1px solid;
+}
+
+.images .img_one {
+  height: 800px;
+  background-image: url("cat.62237586.jpg");
+}
+
+/*# sourceMappingURL=index.86c3f2d1.css.map */

@@ -1,0 +1,17 @@
+// @use "sass:math";
+
+// $teksti: 5;
+// $number: percentage($teksti);
+// p {
+//     font-size: $number;
+// }
+@use "sass:math";
+$numri: 5;
+
+@function test($number) {
+    @return Math.percentage($number);
+}
+   
+p{
+    font-size: percentage($numri);
+}

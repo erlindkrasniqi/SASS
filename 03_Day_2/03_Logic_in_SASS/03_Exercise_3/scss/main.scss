@@ -1,0 +1,14 @@
+@use "sass:color";
+@for $i from 1 through 10 {
+    .block_#{$i}
+    {
+        @if $i % 2 == 0{
+      background-color:blue;
+      height: 100px;
+    }
+    @else{
+        background-color: yellow;
+        height: 100px;
+    }
+}
+  }

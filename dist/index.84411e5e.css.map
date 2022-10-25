@@ -1,0 +1,1 @@
+{"mappings":"AAGA","sources":["03_Day_2/04_Functions/01_Exercise_1/scss/main.scss"],"sourcesContent":["@use \"sass:color\";\r\n\r\n$red: red;\r\nh1{\r\n    color: color.scale($red, $lightness: 40%)\r\n}"],"names":[],"version":3,"file":"index.84411e5e.css.map","sourceRoot":"/__parcel_source_root/"}

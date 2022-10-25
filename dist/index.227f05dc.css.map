@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAEI","sources":["03_Day_2/05_Introduction_to_RWD_and_units/06_Exercise_6/scss/main.scss"],"sourcesContent":["body {\r\n    font-size: 10px;\r\n    .winnie_the_pooh {\r\n        font-size: 300%;\r\n    }\r\n}\r\n"],"names":[],"version":3,"file":"index.227f05dc.css.map","sourceRoot":"/__parcel_source_root/"}

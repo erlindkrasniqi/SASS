@@ -1,0 +1,16 @@
+@use "sass:math";
+
+$vlera1: 20;
+$vlera2: 30;
+
+@function sum(){
+    @return $vlera1 + $vlera2;
+};
+article{
+    padding: sum();
+}
+// section {
+//     article {
+//         padding: ($vlera1 + $vlera2);
+//     }
+// }
