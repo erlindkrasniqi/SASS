@@ -1,1 +1,0 @@
-{"mappings":"AAAA;;;;;AAIA","sources":["01_Day_1/01_Sass_basics/02_Value_change_in_CSS/css/main.scss"],"sourcesContent":["h2{\r\n    color: green;\r\n    font-size: 100px;\r\n}\r\np{\r\n    color: red;\r\n    font-size: 30px;\r\n}"],"names":[],"version":3,"file":"index.a65cc45f.css.map","sourceRoot":"/__parcel_source_root/"}

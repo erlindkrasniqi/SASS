@@ -1,0 +1,30 @@
+@use "sass:map";
+@use "sass:list";
+$map:(
+    min-width: 200px,
+    max-width: 1000px
+);
+header{
+    .main-width{
+        a{
+            background-color: rgb(0, 254, 169);
+            font-weight: bold;
+            font-size: 50px;
+            text-decoration: none;
+        }
+        .menu{
+            //detyra-fillimi//
+            :first-child{
+                min-width: map.get($map,min-width);
+                max-width: map.get($map,max-width);
+                background-color: aqua;
+            }
+            //detyra-fundi//
+            :last-child{
+                min-width: map.get($map,min-width);
+                max-width: map.get($map,max-width);
+                background-color: rgb(3, 136, 136);
+            }
+        }
+    }
+}

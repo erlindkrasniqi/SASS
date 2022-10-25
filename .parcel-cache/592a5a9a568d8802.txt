@@ -1,4 +1,4 @@
-4828
+4810
 102C:\Users\Fehmi\Desktop\SASS\01_Day_1\03_Partials_and_importing\01_Exercises\scss\elements\_footer.scss133110892378844867 0
 76C:\Users\Fehmi\Desktop\SASS\node_modules\domelementtype\lib\esm\package.json133110717858698717 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\update-browserslist-db\utils.js133110717858808423 0
@@ -20,6 +20,7 @@
 55C:\Users\Fehmi\Desktop\SASS\node_modules\type-fest\ts41133110717880488267 1
 70C:\Users\Fehmi\Desktop\SASS\node_modules\sass\types\legacy\render.d.ts133110725861486320 0
 66C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\fs\lib\types.d.ts133110717870683156 0
+51C:\Users\Fehmi\Desktop\SASS\dist\index.5f64e6e9.css133111574868130194 0
 90C:\Users\Fehmi\Desktop\SASS\node_modules\@swc\helpers\lib\_define_enumerable_properties.js133110717881988386 0
 50C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\dict133110717895487129 1
 36C:\Users\Fehmi\Desktop\SASS\03_Day_2133110709114300545 1
@@ -68,7 +69,6 @@
 87C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\css-mediaqueries.js133110717897603482 0
 80C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\node-resolver-core\test\fixture133110717893756623 1
 47C:\Users\Fehmi\Desktop\SASS\08_Day_4_-_Homework133110709115920902 1
-67C:\Users\Fehmi\Desktop\SASS\dist\01_First_steps_in_SCSS.dbdaa421.js133110762869710034 0
 67C:\Users\Fehmi\Desktop\SASS\node_modules\@jridgewell\set-array\dist133110717862001067 1
 76C:\Users\Fehmi\Desktop\SASS\node_modules\nan\nan_implementation_pre_12_inl.h133110717863825244 0
 71C:\Users\Fehmi\Desktop\SASS\node_modules\@babel\code-frame\lib\index.js133110717855989712 0
@@ -83,7 +83,7 @@
 55C:\Users\Fehmi\Desktop\SASS\node_modules\domelementtype133110717862888689 1
 72C:\Users\Fehmi\Desktop\SASS\node_modules\lightningcss\node\index.js.flow133110717854629459 0
 47C:\Users\Fehmi\Desktop\SASS\node_modules\base-x133110717857349496 1
-32C:\Users\Fehmi\Desktop\SASS\dist133111528038422511 1
+32C:\Users\Fehmi\Desktop\SASS\dist133111605896092000 1
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\IT.js133110717921817760 0
 45C:\Users\Fehmi\Desktop\SASS\node_modules\csso133110717888298179 1
 99C:\Users\Fehmi\Desktop\SASS\01_Day_1\03_Partials_and_importing\01_Exercises\scss\settings\_all.scss133110892401326061 0
@@ -102,13 +102,12 @@
 56C:\Users\Fehmi\Desktop\SASS\node_modules\nan\doc\json.md133110717880248900 0
 58C:\Users\Fehmi\Desktop\SASS\node_modules\@msgpackr-extract133110741030494132 1
 69C:\Users\Fehmi\Desktop\SASS\node_modules\nth-check\lib\esm\index.d.ts133110717873181899 0
-40C:\Users\Fehmi\Desktop\SASS\package.json133111141211849386 0
+40C:\Users\Fehmi\Desktop\SASS\package.json133111594848250606 0
 77C:\Users\Fehmi\Desktop\SASS\node_modules\csso\lib\replace\atrule\keyframes.js133110717881948466 0
 75C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\lib\CommittedAsset.js133110717887239469 0
 71C:\Users\Fehmi\Desktop\SASS\node_modules\type-fest\ts41\kebab-case.d.ts133110717870430348 0
 46C:\Users\Fehmi\Desktop\SASS\node_modules\@lmdb133110740646113715 1
 82C:\Users\Fehmi\Desktop\SASS\node_modules\@swc\helpers\src\_wrap_async_generator.js133110717895866116 0
-51C:\Users\Fehmi\Desktop\SASS\dist\index.49f11a68.css133110775974116441 0
 46C:\Users\Fehmi\Desktop\SASS\node_modules\json5133110717867543441 1
 61C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\src\lmdb-js.cpp133110717892317835 0
 100C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.1133110717870248274 0
@@ -451,7 +450,6 @@
 54C:\Users\Fehmi\Desktop\SASS\08_Day_4_-_Homework\images133110709115930892 1
 55C:\Users\Fehmi\Desktop\SASS\node_modules\ordered-binary133110717864689556 1
 76C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\utils\test\throttle.test.js133110717890196613 0
-61C:\Users\Fehmi\Desktop\SASS\dist\03_Variables.ef3e24e3.js.map133110771843094953 0
 47C:\Users\Fehmi\Desktop\SASS\node_modules\parcel133110717863075609 1
 57C:\Users\Fehmi\Desktop\SASS\node_modules\cosmiconfig\dist133110717882312539 1
 57C:\Users\Fehmi\Desktop\SASS\node_modules\semver\README.md133110717862400003 0
@@ -668,7 +666,7 @@
 59C:\Users\Fehmi\Desktop\SASS\node_modules\yaml\types\omap.js133110717868170570 0
 84C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\link-icon-svg.js133110717929105896 0
 58C:\Users\Fehmi\Desktop\SASS\node_modules\yaml\types\set.js133110717882472558 0
-55C:\Users\Fehmi\Desktop\SASS\dist\01_Tooltip.a8ab7b37.js133111528038342550 0
+55C:\Users\Fehmi\Desktop\SASS\dist\01_Tooltip.a8ab7b37.js133111533957273515 0
 80C:\Users\Fehmi\Desktop\SASS\node_modules\css-tree\lib\definition-syntax\index.js133110717889378130 0
 86C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\node_modules\node-addon-api\package.json133110717870314822 0
 70C:\Users\Fehmi\Desktop\SASS\node_modules\htmlnano\docs\babel.config.js133110717856863108 0
@@ -751,6 +749,7 @@
 67C:\Users\Fehmi\Desktop\SASS\node_modules\yaml\browser\types\omap.js133110717867613259 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\MP.js133110717931190381 0
 68C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\agents.js133110717866019586 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.fd94288d.css.map133111605896012098 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\svgo\plugins\removeEmptyText.js133110717887943947 0
 68C:\Users\Fehmi\Desktop\SASS\node_modules\yaml\browser\types\pairs.js133110717869722059 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\ZW.js133110717943860372 0
@@ -894,7 +893,6 @@
 79C:\Users\Fehmi\Desktop\SASS\node_modules\svgo\lib\svgo\css-style-declaration.js133110717874744643 0
 74C:\Users\Fehmi\Desktop\SASS\node_modules\css-tree\lib\syntax\node\Ratio.js133110717893437471 0
 59C:\Users\Fehmi\Desktop\SASS\node_modules\entities\readme.md133110717871157886 0
-51C:\Users\Fehmi\Desktop\SASS\dist\index.11ee2681.css133110864004233721 0
 76C:\Users\Fehmi\Desktop\SASS\node_modules\node-releases\data\release-schedule133110717859129558 1
 58C:\Users\Fehmi\Desktop\SASS\node_modules\.bin\browserslist133110717944434827 0
 83C:\Users\Fehmi\Desktop\SASS\node_modules\utility-types\dist\functional-helpers.d.ts133110717869043520 0
@@ -1023,7 +1021,7 @@
 75C:\Users\Fehmi\Desktop\SASS\node_modules\type-fest\source\set-optional.d.ts133110717879510876 0
 75C:\Users\Fehmi\Desktop\SASS\node_modules\type-fest\source\set-required.d.ts133110717879979653 0
 60C:\Users\Fehmi\Desktop\SASS\node_modules\parcel\package.json133110717862469806 0
-73C:\Users\Fehmi\Desktop\SASS\02_Day_1_-_Homework\01_Tooltip\scss\main.scss133111528231804771 0
+73C:\Users\Fehmi\Desktop\SASS\02_Day_1_-_Homework\01_Tooltip\scss\main.scss133111538599058869 0
 60C:\Users\Fehmi\Desktop\SASS\node_modules\glob-parent\LICENSE133110725849147721 0
 68C:\Users\Fehmi\Desktop\SASS\node_modules\@types\parse-json\README.md133110717854026195 0
 87C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\node-resolver-core\test\fixture\nested133110717890930284 1
@@ -1338,7 +1336,7 @@
 56C:\Users\Fehmi\Desktop\SASS\node_modules\.bin\parcel.ps1133110717944454764 0
 57C:\Users\Fehmi\Desktop\SASS\node_modules\svgo\lib\path.js133110717881556798 0
 74C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\eme.js133110717901045623 0
-59C:\Users\Fehmi\Desktop\SASS\dist\01_Tooltip.a8ab7b37.js.map133111528038342550 0
+59C:\Users\Fehmi\Desktop\SASS\dist\01_Tooltip.a8ab7b37.js.map133111533957353463 0
 62C:\Users\Fehmi\Desktop\SASS\node_modules\svgo\lib\svgo-node.js133110717890468274 0
 62C:\Users\Fehmi\Desktop\SASS\node_modules\safe-buffer\README.md133110717857609336 0
 48C:\Users\Fehmi\Desktop\SASS\node_modules\nan\doc133110717886850692 1
@@ -1576,7 +1574,6 @@
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\JM.js133110717922182714 0
 58C:\Users\Fehmi\Desktop\SASS\node_modules\readdirp\index.js133110725849464406 0
 64C:\Users\Fehmi\Desktop\SASS\node_modules\csso\lib\replace\atrule133110717881797088 1
-55C:\Users\Fehmi\Desktop\SASS\dist\index.30e9a2c2.css.map133110930373961707 0
 63C:\Users\Fehmi\Desktop\SASS\node_modules\react-refresh\babel.js133110717854175369 0
 77C:\Users\Fehmi\Desktop\SASS\node_modules\css-tree\lib\syntax\node\Selector.js133110717893706758 0
 71C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\lib\serializer.js133110717895051836 0
@@ -1891,7 +1888,6 @@
 75C:\Users\Fehmi\Desktop\SASS\node_modules\cosmiconfig\dist\Explorer.d.ts.map133110717867264193 0
 66C:\Users\Fehmi\Desktop\SASS\node_modules\node-addon-api\LICENSE.md133110717870958426 0
 77C:\Users\Fehmi\Desktop\SASS\node_modules\node-addon-api\napi-inl.deprecated.h133110717859790879 0
-51C:\Users\Fehmi\Desktop\SASS\dist\index.6c381f0f.css133110762241352738 0
 66C:\Users\Fehmi\Desktop\SASS\node_modules\node-addon-api\napi-inl.h133110717863772676 0
 92C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133110717881529289 0
 76C:\Users\Fehmi\Desktop\SASS\node_modules\node-addon-api\package-support.json133110717868933828 0
@@ -1908,6 +1904,7 @@
 79C:\Users\Fehmi\Desktop\SASS\node_modules\@swc\helpers\lib\_non_iterable_rest.js133110717888438477 0
 112C:\Users\Fehmi\Desktop\SASS\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1133110717944424855 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\nan\nan_converters_pre_43_inl.h133110717859558409 0
+51C:\Users\Fehmi\Desktop\SASS\dist\index.bae5e739.css133111555159960268 0
 63C:\Users\Fehmi\Desktop\SASS\node_modules\domutils\lib\legacy.js133110717859508547 0
 77C:\Users\Fehmi\Desktop\SASS\node_modules\nan\nan_define_own_property_helper.h133110717861891363 0
 58C:\Users\Fehmi\Desktop\SASS\node_modules\htmlnano\index.js133110717866505304 0
@@ -2107,7 +2104,6 @@
 84C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h133110717864104487 0
 74C:\Users\Fehmi\Desktop\SASS\node_modules\@swc\helpers\src\_to_primitive.js133110717895696572 0
 87C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133110717858708692 0
-51C:\Users\Fehmi\Desktop\SASS\dist\index.43b7a0fe.css133110913698807068 0
 94C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\node_modules\node-addon-api\package-support.json133110717869692158 0
 67C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\markdown-ansi\test133110717858003858 1
 64C:\Users\Fehmi\Desktop\SASS\node_modules\@lezer\common\README.md133110717861592151 0
@@ -2382,7 +2378,6 @@
 83C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\transformer-babel\lib\constants.js133110717864519989 0
 88C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\optimizer-terser\lib\TerserOptimizer.js133110717854803801 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\htmlnano\lib\presets\ampSafe.js133110717855054727 0
-51C:\Users\Fehmi\Desktop\SASS\dist\index.6bc6f8df.css133110764790122954 0
 68C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\watcher\binding.gyp133110717869292850 0
 90C:\Users\Fehmi\Desktop\SASS\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.js133110717860834184 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\VC.js133110717939145856 0
@@ -2432,6 +2427,7 @@
 77C:\Users\Fehmi\Desktop\SASS\node_modules\css-tree\lib\syntax\config\parser.js133110717893055862 0
 68C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\package-manager\lib133110717888493035 1
 103C:\Users\Fehmi\Desktop\SASS\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\010-introduction.md133110717888075133 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.bae5e739.css.map133111555160040136 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\GP.js133110717917686477 0
 97C:\Users\Fehmi\Desktop\SASS\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md133110717888978727 0
 77C:\Users\Fehmi\Desktop\SASS\node_modules\css-tree\lib\syntax\node\Operator.js133110717892846421 0
@@ -2604,7 +2600,7 @@
 74C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\utils\src\prettifyTime.js133110717887963857 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\FK.js133110717907297663 0
 66C:\Users\Fehmi\Desktop\SASS\node_modules\domhandler\lib\index.d.ts133110717862968469 0
-83C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\01_Exercise_1\scss\main.scss133110709113725278 0
+83C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\01_Exercise_1\scss\main.scss133111606432403369 0
 50C:\Users\Fehmi\Desktop\SASS\node_modules\csso\dist133110717874085411 1
 86C:\Users\Fehmi\Desktop\SASS\node_modules\@swc\helpers\lib\_class_private_method_set.js133110717877954054 0
 70C:\Users\Fehmi\Desktop\SASS\node_modules\domhandler\lib\index.d.ts.map133110717859488604 0
@@ -2646,7 +2642,6 @@
 83C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\documenthead.js133110717900427276 0
 107C:\Users\Fehmi\Desktop\SASS\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts.map133110717865523004 0
 97C:\Users\Fehmi\Desktop\SASS\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map133110717866667828 0
-51C:\Users\Fehmi\Desktop\SASS\dist\index.30e9a2c2.css133110930373944336 0
 73C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\events\lib\Disposable.js133110717854885750 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\LA.js133110717928697555 0
 91C:\Users\Fehmi\Desktop\SASS\node_modules\dom-serializer\node_modules\entities\lib\encode.js133110717857918012 0
@@ -2655,6 +2650,7 @@
 66C:\Users\Fehmi\Desktop\SASS\node_modules\@swc\helpers\lib\index.js133110717891111226 0
 81C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\RequestTracker.test.js133110717894882277 0
 90C:\Users\Fehmi\Desktop\SASS\node_modules\dom-serializer\node_modules\entities\lib\index.js133110717859721071 0
+58C:\Users\Fehmi\Desktop\SASS\dist\01_Exercise_1.215f3088.js133111572151064132 0
 86C:\Users\Fehmi\Desktop\SASS\node_modules\dom-serializer\node_modules\entities\lib\maps133110717864659636 1
 86C:\Users\Fehmi\Desktop\SASS\node_modules\@jridgewell\gen-mapping\dist\types\types.d.ts133110717866562954 0
 98C:\Users\Fehmi\Desktop\SASS\node_modules\dom-serializer\node_modules\entities\lib\maps\legacy.json133110717863415113 0
@@ -2698,7 +2694,6 @@
 79C:\Users\Fehmi\Desktop\SASS\node_modules\csso\lib\restructure\7-mergeRuleset.js133110717862400003 0
 82C:\Users\Fehmi\Desktop\SASS\node_modules\csso\lib\restructure\8-restructRuleset.js133110717863214064 0
 70C:\Users\Fehmi\Desktop\SASS\node_modules\csso\lib\restructure\index.js133110717881221700 0
-57C:\Users\Fehmi\Desktop\SASS\dist\01_Exercises.bdc6c093.js133110891528645049 0
 69C:\Users\Fehmi\Desktop\SASS\node_modules\csso\lib\restructure\prepare133110717885298033 1
 78C:\Users\Fehmi\Desktop\SASS\node_modules\csso\lib\replace\AttributeSelector.js133110717866342884 0
 83C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\font-loading.js133110717913480568 0
@@ -3028,7 +3023,7 @@
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\IR.js133110717921379860 0
 85C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\css-cross-fade.js133110717896137902 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\JE.js133110717921964801 0
-79C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\02_Exercise_2\index.html133110709113735245 0
+79C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\02_Exercise_2\index.html133111577377782765 0
 90C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133110717859731042 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\JO.js133110717922537558 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\KG.js133110717926961383 0
@@ -3086,7 +3081,6 @@
 54C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\cache133110717867393848 1
 83C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\utils\test\input\config\empty.json133110717890577968 0
 88C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.hh133110717877784511 0
-57C:\Users\Fehmi\Desktop\SASS\dist\03_Variables.ef3e24e3.js133110771843018488 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\SK.js133110717936210291 0
 98C:\Users\Fehmi\Desktop\SASS\03_Day_2\05_Introduction_to_RWD_and_units\01_Exercise_1\scss\main.scss133110709114074024 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\SL.js133110717936235915 0
@@ -3314,7 +3308,6 @@
 83C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\css3-tabsize.js133110717899347823 0
 74C:\Users\Fehmi\Desktop\SASS\node_modules\@swc\helpers\src\_create_class.js133110717893986027 0
 83C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\currentcolor.js133110717899407654 0
-51C:\Users\Fehmi\Desktop\SASS\dist\index.a65cc45f.css133110768913299224 0
 86C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\custom-elements.js133110717899437571 0
 97C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133110717854803801 0
 88C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\custom-elementsv1.js133110717899467488 0
@@ -3353,7 +3346,7 @@
 70C:\Users\Fehmi\Desktop\SASS\node_modules\@babel\highlight\node_modules133110717838346257 1
 85C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\es6-generators.js133110717901278040 0
 96C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js133110717901298113 0
-82C:\Users\Fehmi\Desktop\SASS\03_Day_2\01_Inheritance\01_Placeholders\scss\main.scss133110709113647463 0
+82C:\Users\Fehmi\Desktop\SASS\03_Day_2\01_Inheritance\01_Placeholders\scss\main.scss133111555219037971 0
 81C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\es6-module.js133110717901519852 0
 81C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\fullscreen.js133110717916859720 0
 77C:\Users\Fehmi\Desktop\SASS\node_modules\@swc\helpers\src\_super_prop_base.js133110717895546973 0
@@ -3365,7 +3358,6 @@
 88C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\fieldset-disabled.js133110717905188727 0
 78C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\fileapi.js133110717905757932 0
 61C:\Users\Fehmi\Desktop\SASS\node_modules\@swc\helpers\scripts133110717891226945 1
-55C:\Users\Fehmi\Desktop\SASS\dist\index.11ee2681.css.map133110864004347818 0
 81C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\filereader.js133110717905871815 0
 78C:\Users\Fehmi\Desktop\SASS\node_modules\abortcontroller-polyfill\src\utils.js133110717866475390 0
 82C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\flexbox-gap.js133110717907626788 0
@@ -3964,7 +3956,6 @@
 98C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\runtime-js\lib\helpers\browser\import-polyfill.js133110717871137933 0
 66C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\types\build-ts.js133110717854295450 0
 62C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\types\LICENSE133110717852822937 0
-62C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.7cb70624.js.map133110915131586039 0
 67C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\types\package.json133110717859941985 0
 69C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\types\lib\index.d.ts133110717862459832 0
 120C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\package.json133110717892581202 0
@@ -4054,7 +4045,6 @@
 113C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node133110717882850890 0
 122C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm-gnueabihf.node133110717886830734 0
 117C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-musl.node133110717890852896 0
-62C:\Users\Fehmi\Desktop\SASS\dist\01_Exercise_1.aaa76160.js.map133110912287855687 0
 117C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node133110717891473371 0
 77C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\source-map\dist\node.js.flow133110717853261731 0
 82C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\source-map\dist\SourceMap.js.flow133110717855144486 0
@@ -4448,7 +4438,7 @@
 72C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\03_Exercise_3\scss133110709115352253 1
 71C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\cache\src\LMDBCache.js133110717865114092 0
 69C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\cache\lib\FSCache.js133110717854694525 0
-83C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\02_Exercise_2\scss\main.scss133110709113749927 0
+83C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\02_Exercise_2\scss\main.scss133111606449544605 0
 70C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\cache\lib\IDBCache.js133110717861093487 0
 67C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\cache\lib\index.js133110717863038285 0
 71C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\cache\lib\LMDBCache.js133110717864475036 0
@@ -4582,29 +4572,21 @@
 54C:\Users\Fehmi\Desktop\SASS\node_modules\.bin\svgo.cmd133110717944444794 0
 54C:\Users\Fehmi\Desktop\SASS\node_modules\.bin\svgo.ps1133110717944444794 0
 52C:\Users\Fehmi\Desktop\SASS\node_modules\.bin\terser133110717944454764 0
-61C:\Users\Fehmi\Desktop\SASS\dist\01_Exercises.bdc6c093.js.map133110891528681741 0
-58C:\Users\Fehmi\Desktop\SASS\dist\01_Exercise_1.aaa76160.js133110912287802626 0
-71C:\Users\Fehmi\Desktop\SASS\dist\01_First_steps_in_SCSS.dbdaa421.js.map133110762869739945 0
-68C:\Users\Fehmi\Desktop\SASS\dist\01_Styling_with_nesting.83483dac.js133110864011580095 0
-72C:\Users\Fehmi\Desktop\SASS\dist\01_Styling_with_nesting.83483dac.js.map133110860358061792 0
-58C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.7cb70624.js133110915131534093 0
-67C:\Users\Fehmi\Desktop\SASS\dist\02_Value_change_in_CSS.17e52e6a.js133110766741669146 0
-71C:\Users\Fehmi\Desktop\SASS\dist\02_Value_change_in_CSS.17e52e6a.js.map133110766741689091 0
-58C:\Users\Fehmi\Desktop\SASS\dist\03_Exercise_3.826427f3.js133110921787153405 0
-62C:\Users\Fehmi\Desktop\SASS\dist\03_Exercise_3.826427f3.js.map133110921787199987 0
-51C:\Users\Fehmi\Desktop\SASS\dist\index.0ba57cad.css133110891528548218 0
-55C:\Users\Fehmi\Desktop\SASS\dist\index.0ba57cad.css.map133110891528586085 0
-55C:\Users\Fehmi\Desktop\SASS\dist\index.43b7a0fe.css.map133110913698846958 0
-55C:\Users\Fehmi\Desktop\SASS\dist\index.49f11a68.css.map133110775974156326 0
-55C:\Users\Fehmi\Desktop\SASS\dist\index.6bc6f8df.css.map133110764790162860 0
-55C:\Users\Fehmi\Desktop\SASS\dist\index.6c381f0f.css.map133110762241382664 0
-51C:\Users\Fehmi\Desktop\SASS\dist\index.736961fa.css133110915128627104 0
-55C:\Users\Fehmi\Desktop\SASS\dist\index.736961fa.css.map133110915128675513 0
-51C:\Users\Fehmi\Desktop\SASS\dist\index.8ded835c.css133111528036743627 0
+62C:\Users\Fehmi\Desktop\SASS\dist\01_Exercise_1.215f3088.js.map133111572151064132 0
+60C:\Users\Fehmi\Desktop\SASS\dist\01_Placeholders.c4fd331b.js133111549145400999 0
+64C:\Users\Fehmi\Desktop\SASS\dist\01_Placeholders.c4fd331b.js.map133111549145400999 0
+58C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.1225d767.js133111581955815680 0
+62C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.1225d767.js.map133111581955895661 0
+58C:\Users\Fehmi\Desktop\SASS\dist\03_Exercise_3.eabd9315.js133111596006498369 0
+62C:\Users\Fehmi\Desktop\SASS\dist\03_Exercise_3.eabd9315.js.map133111596006498369 0
+51C:\Users\Fehmi\Desktop\SASS\dist\index.4248b41a.css133111594595237872 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.4248b41a.css.map133111594595317804 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.5f64e6e9.css.map133111574868130194 0
+51C:\Users\Fehmi\Desktop\SASS\dist\index.8ded835c.css133111533957273515 0
 83C:\Users\Fehmi\Desktop\SASS\03_Day_2\05_Introduction_to_RWD_and_units\02_Exercise_2133110709114098716 1
-55C:\Users\Fehmi\Desktop\SASS\dist\index.8ded835c.css.map133111528036743627 0
-55C:\Users\Fehmi\Desktop\SASS\dist\index.a65cc45f.css.map133110768913329140 0
-43C:\Users\Fehmi\Desktop\SASS\dist\index.html133111528037223305 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.8ded835c.css.map133111533957273515 0
+51C:\Users\Fehmi\Desktop\SASS\dist\index.fd94288d.css133111605895932126 0
+43C:\Users\Fehmi\Desktop\SASS\dist\index.html133111596007458785 0
 62C:\Users\Fehmi\Desktop\SASS\09_Day_5_Workshop_Solution\.config133110709115960816 1
 56C:\Users\Fehmi\Desktop\SASS\04_Day_2_-_Homework\02_Units133110709114365997 1
 61C:\Users\Fehmi\Desktop\SASS\09_Day_5_Workshop_Solution\assets133110709116118584 1
@@ -4777,17 +4759,17 @@
 68C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\02_Exercise_2133110709113749927 1
 68C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\03_Exercise_3133110709113771608 1
 64C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\README.md133110709113781607 0
-79C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\03_Exercise_3\index.html133110709113763424 0
+79C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\03_Exercise_3\index.html133111606407143965 0
 73C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\03_Exercise_3\scss133110709113771608 1
-83C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\03_Exercise_3\scss\main.scss133110709113771608 0
-79C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\01_Exercise_1\index.html133110709113716420 0
+83C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\03_Exercise_3\scss\main.scss133111606367643072 0
+79C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\01_Exercise_1\index.html133111572193330882 0
 76C:\Users\Fehmi\Desktop\SASS\03_Day_2\02_Lists_and_maps\.config\exercises.yml133110709113705699 0
 58C:\Users\Fehmi\Desktop\SASS\03_Day_2\01_Inheritance\images133110709113677421 1
-78C:\Users\Fehmi\Desktop\SASS\03_Day_2\01_Inheritance\01_Placeholders\index.html133110709113647463 0
+78C:\Users\Fehmi\Desktop\SASS\03_Day_2\01_Inheritance\01_Placeholders\index.html133111554800073448 0
 55C:\Users\Fehmi\Desktop\SASS\02_Day_1_-_Homework\.config133110709113579583 1
 58C:\Users\Fehmi\Desktop\SASS\02_Day_1_-_Homework\01_Tooltip133110709113597390 1
 57C:\Users\Fehmi\Desktop\SASS\02_Day_1_-_Homework\README.md133110709113610703 0
-69C:\Users\Fehmi\Desktop\SASS\02_Day_1_-_Homework\01_Tooltip\index.html133111527771703790 0
+69C:\Users\Fehmi\Desktop\SASS\02_Day_1_-_Homework\01_Tooltip\index.html133111536410685503 0
 63C:\Users\Fehmi\Desktop\SASS\02_Day_1_-_Homework\01_Tooltip\scss133110709113607798 1
 51C:\Users\Fehmi\Desktop\SASS\01_Day_1\01_Sass_basics133110709113316690 1
 62C:\Users\Fehmi\Desktop\SASS\01_Day_1\03_Partials_and_importing133110709113438913 1

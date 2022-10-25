@@ -1,0 +1,22 @@
+@use "sass:list";
+@use "sass:map";
+$colors: (
+  body: grey,
+  text: rgb(84, 43, 43),
+  footer: rgb(221, 213, 213),
+  header: rgb(222, 133, 30),
+  section: #f000,
+);
+body {
+  background-color: map.get($colors, body);
+  color: map.get($colors, text);
+}
+footer {
+  background-color: map.get($colors, footer);
+}
+header {
+  background-color: map.get($colors, header);
+}
+section {
+  background-color: map.get($colors, section);
+}

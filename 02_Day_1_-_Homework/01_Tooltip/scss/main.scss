@@ -1,4 +1,4 @@
-// @mixin setTooltip ($main-color) {
+// @mixin setTooltip($main-color) {
 //     // position: relative;
 //     display: inline-block;
 //     border: 1px dotted black;
@@ -6,8 +6,8 @@
 //     background-color: $main-color;
 // }
 // body {
-//     .list {
-//         li {
+//     .tooltip{
+//         .tooltip__text{
 //         &:hover{
 //             @include setTooltip (rgb(48, 252, 48));
 //             }
@@ -22,7 +22,8 @@
     padding: 5px;
     position: relative;
     content: $tooltipText;
-    border-radius: 8px;;
+    border-radius: 8px;
+    cursor: pointer;
 }
 .tooltip {
     display: inline-block;

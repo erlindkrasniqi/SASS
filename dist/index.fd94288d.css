@@ -1,0 +1,20 @@
+header .main-width a {
+  background-color: #00fea9;
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+header .main-width .menu :first-child {
+  min-width: 200px;
+  max-width: 1000px;
+  background-color: #0ff;
+}
+
+header .main-width .menu :last-child {
+  min-width: 200px;
+  max-width: 1000px;
+  background-color: #038888;
+}
+
+/*# sourceMappingURL=index.fd94288d.css.map */

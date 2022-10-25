@@ -6,6 +6,7 @@
   width: 120px;
   color: #fff;
   content: "Tooltip text";
+  cursor: pointer;
   background-color: #30fc30;
   border-radius: 8px;
   padding: 5px;

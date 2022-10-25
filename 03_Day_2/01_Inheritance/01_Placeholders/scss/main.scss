@@ -1,0 +1,27 @@
+%structure{
+    height: 400px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 150px;
+    color: rgb(0, 255, 0);
+    text-decoration:underline;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.container{
+    .success{
+        background-color: rgb(23, 62, 23);
+        @extend %structure;
+    }
+    .error{
+        background-color: rgb(255, 0, 0);
+        @extend %structure;
+    }
+    .info{
+        background-color: rgb(94, 94, 255);
+        @extend %structure;
+    }
+}

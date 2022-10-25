@@ -1,0 +1,27 @@
+.container .info, .container .error, .container .success {
+  height: 400px;
+  color: #0f0;
+  border: 2px solid #000;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  font-family: sans-serif;
+  font-size: 150px;
+  font-weight: bold;
+  text-decoration: underline;
+  display: flex;
+}
+
+.container .success {
+  background-color: #173e17;
+}
+
+.container .error {
+  background-color: red;
+}
+
+.container .info {
+  background-color: #5e5eff;
+}
+
+/*# sourceMappingURL=index.bae5e739.css.map */
