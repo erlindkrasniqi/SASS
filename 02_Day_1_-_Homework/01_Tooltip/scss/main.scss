@@ -1,16 +1,37 @@
-@mixin setTooltip ($main-color) {
+// @mixin setTooltip ($main-color) {
+//     // position: relative;
+//     display: inline-block;
+//     border: 1px dotted black;
+//     cursor: pointer;
+//     background-color: $main-color;
+// }
+// body {
+//     .list {
+//         li {
+//         &:hover{
+//             @include setTooltip (rgb(48, 252, 48));
+//             }
+//         }
+//     } 
+// }
+
+@mixin tooltipHover($tooltipText, $width) {
+    background-color: rgb(48, 252, 48);
+    width: $width;
+    color: white;
+    padding: 5px;
     position: relative;
-    display: inline-block;
-    border: 1px dotted black;
-    cursor: pointer;
-    background-color: $main-color;
+    content: $tooltipText;
+    border-radius: 8px;;
 }
-body {
-    .list {
-        li {
-        &:hover{
-            @include setTooltip (rgb(48, 252, 48));
+.tooltip {
+    display: inline-block;
+    .tooltip__text {
+        &:hover {
+            &::after {
+                @include tooltipHover ("Tooltip text", 120px);
+                left: 5px;
             }
         }
-    } 
+    }
 }

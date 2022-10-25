@@ -1,9 +1,16 @@
-body .list li:hover {
-  cursor: pointer;
-  background-color: #30fc30;
-  border: 1px dotted #000;
+.tooltip {
   display: inline-block;
+}
+
+.tooltip .tooltip__text:hover:after {
+  width: 120px;
+  color: #fff;
+  content: "Tooltip text";
+  background-color: #30fc30;
+  border-radius: 8px;
+  padding: 5px;
   position: relative;
+  left: 5px;
 }
 
 /*# sourceMappingURL=index.8ded835c.css.map */
