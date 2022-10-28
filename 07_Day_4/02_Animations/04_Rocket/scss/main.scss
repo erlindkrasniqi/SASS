@@ -29,9 +29,10 @@
   width: 89px;
   height: 150px;
   position: absolute;
-  left: 0;
-  top: 0;
+  left: 100px;
+  top: 100px;
   z-index: 2;
+  animation: udhtimi 20s 5s linear infinite normal;
 
   span {
     display: block;
@@ -53,11 +54,38 @@
       left: 50%;
       top: 87%;
       transform: translate(-50%, 0);
-      animation: fire 0.1s 0s infinite alternate;
+      animation: fire 10s 0s infinite alternate;
       transform-origin: 50% 0;
       z-index: 0;
     }
   }
+  @keyframes udhtimi {
+    0% {
+      left: 100px;
+      top: 100px;
+    }
+    33% {
+      left: 1200px;
+      top: 100px;
+      transform: rotate(90deg);
+    }
+    50% {
+      left: 1200px;
+      top: 450px;
+      transform: rotate(180deg);
+    }
+    83% {
+      left: 200px;
+      top: 450px;
+      transform: rotate(270deg);
+    }
+    100% {
+      left: 100px;
+      top: 100px;
+      transform: rotate(360deg);
+    }
+  }
+
 }
 
 .planet1 {

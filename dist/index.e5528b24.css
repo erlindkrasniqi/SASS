@@ -1,0 +1,130 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@keyframes fire {
+  50% {
+    transform: translate(-50%)scale(.9, 1);
+  }
+
+  100% {
+    transform: translate(-50%)scale(1, .9);
+  }
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  min-width: 1200px;
+  min-height: 800px;
+  background: url("stars.31d876a7.png") 0 0 / 200px 200px, linear-gradient(#122b47 0%, #121425 51%, #2e1936 100%) 0 0 / cover;
+  position: relative;
+}
+
+.rocket {
+  width: 89px;
+  height: 150px;
+  z-index: 2;
+  animation: 20s linear 5s infinite udhtimi;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+.rocket span {
+  width: 89px;
+  height: 150px;
+  z-index: 1;
+  background: url("rocket.c8ade873.png");
+  display: block;
+  position: relative;
+}
+
+.rocket.fly:after {
+  content: "";
+  width: 42px;
+  height: 67px;
+  transform-origin: 50% 0;
+  z-index: 0;
+  background: url("fire.c7d9444b.png") 0 0 / cover;
+  animation: 10s infinite alternate fire;
+  position: absolute;
+  top: 87%;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+@keyframes udhtimi {
+  0% {
+    top: 100px;
+    left: 100px;
+  }
+
+  33% {
+    top: 100px;
+    left: 1200px;
+    transform: rotate(90deg);
+  }
+
+  50% {
+    top: 450px;
+    left: 1200px;
+    transform: rotate(180deg);
+  }
+
+  83% {
+    top: 450px;
+    left: 200px;
+    transform: rotate(270deg);
+  }
+
+  100% {
+    top: 100px;
+    left: 100px;
+    transform: rotate(360deg);
+  }
+}
+
+.planet1 {
+  width: 228px;
+  height: 229px;
+  background: url("planet1.97939063.png");
+  border-radius: 50%;
+  position: absolute;
+  top: 100px;
+  left: 150px;
+  box-shadow: 0 0 30px #b0160466, 0 0 100px #f9952233;
+}
+
+.planet2 {
+  width: 201px;
+  height: 201px;
+  background: url("planet2.cdeb5117.png");
+  position: absolute;
+  top: 150px;
+  left: calc(100% - 350px);
+}
+
+.planet3 {
+  width: 257px;
+  height: 246px;
+  background: url("planet3.920898da.png");
+  position: absolute;
+  top: calc(100% - 350px);
+  left: calc(100% - 460px);
+}
+
+.planet4 {
+  width: 225px;
+  height: 225px;
+  background: url("planet4.c059f419.png");
+  border-radius: 50%;
+  position: absolute;
+  top: calc(100% - 300px);
+  left: 200px;
+  box-shadow: 0 0 50px #f7d74c33;
+}
+
+/*# sourceMappingURL=index.e5528b24.css.map */

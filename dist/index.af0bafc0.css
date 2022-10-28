@@ -1,0 +1,99 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.element-1, .element-2, .element-3, .element-4, .element-5, .element-6, .element-7, .element-8, .element-9, .element-10, .element-11, .element-12 {
+  border: 1px solid #000;
+}
+
+.holy-grail {
+  width: 100%;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+  display: flex;
+}
+
+.holy-grail header {
+  width: 100%;
+  height: 24%;
+}
+
+.holy-grail header .row {
+  height: 100%;
+  flex-direction: row;
+  display: flex;
+}
+
+.holy-grail header .row [class*="element-"] {
+  height: 100%;
+  width: 8.33333%;
+  background-color: #00f;
+}
+
+main {
+  width: 100%;
+  height: 50%;
+}
+
+main .row {
+  height: 100%;
+  flex-direction: row;
+  display: flex;
+}
+
+main .row .row1 {
+  width: 25%;
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+}
+
+main .row .row1 [class*="element-"] {
+  height: 12.5%;
+  background-color: #6d6dfb51;
+  margin-bottom: 10%;
+}
+
+main .row .row2 {
+  width: 50%;
+  height: 100%;
+  flex-direction: row;
+  display: flex;
+}
+
+main .row .row2 [class*="element-"] {
+  width: 16.66%;
+  background-color: #919a80;
+}
+
+main .row .row3 {
+  width: 25%;
+  display: flex;
+}
+
+main .row .row3 [class*="element-"] {
+  width: 33.33%;
+  background-color: #bd1c1c;
+}
+
+footer {
+  width: 100%;
+  height: 15%;
+}
+
+footer .row {
+  height: 100%;
+  flex-direction: row;
+  display: flex;
+}
+
+footer .row [class*="element-"] {
+  height: 100%;
+  width: 8.33333%;
+  background-color: #85858c;
+}
+
+/*# sourceMappingURL=index.af0bafc0.css.map */

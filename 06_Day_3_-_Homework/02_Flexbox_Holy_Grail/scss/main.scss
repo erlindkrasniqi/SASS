@@ -1,1 +1,87 @@
-
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  @for $i from 1 through 12 {
+    .element-#{$i} {
+      border: 1px solid black;
+    }
+  }
+  $base-width: 100%;
+  $base-cols: 12;
+  $base-header: $base-width / $base-cols;
+  .holy-grail {
+    width: $base-width;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    header {
+      width: $base-width;
+      height: 24%;
+      .row {
+        display: flex;
+        flex-direction: row;
+        height: 100%;
+        [class*="element-"] {
+          height: 100%;
+          width: $base-header;
+          background-color: blue;
+        }
+      }
+    }
+  }
+  main {
+    width: $base-width;
+    height: 50%;
+    .row {
+      display: flex;
+      height: 100%;
+      display: flex;
+      flex-direction: row;
+      .row1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        width: 25%;
+        [class*="element-"] {
+          height: 12.5%;
+          background-color: rgba(109, 109, 251, 0.319);
+          margin-bottom: 10%;
+        }
+      }
+      .row2 {
+        display: flex;
+        flex-direction: row;
+        width: 50%;
+        height: 100%;
+        [class*="element-"] {
+          background-color: rgb(145, 154, 128);
+          width: 16.66%;
+        }
+      }
+      .row3 {
+        display: flex;
+        width: 25%;
+        [class*="element-"] {
+          background-color: rgb(189, 28, 28);
+          width: 33.33%;
+        }
+      }
+    }
+  }
+  footer {
+    width: $base-width;
+    height: 15%;
+    .row {
+      display: flex;
+      flex-direction: row;
+      height: 100%;
+      [class*="element-"] {
+        height: 100%;
+        width: $base-header;
+        background-color: rgb(133, 133, 140);
+      }
+    }
+  }

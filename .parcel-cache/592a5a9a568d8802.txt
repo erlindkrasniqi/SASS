@@ -1,4 +1,4 @@
-4879
+4924
 102C:\Users\Fehmi\Desktop\SASS\01_Day_1\03_Partials_and_importing\01_Exercises\scss\elements\_footer.scss133110892378844867 0
 76C:\Users\Fehmi\Desktop\SASS\node_modules\domelementtype\lib\esm\package.json133110717858698717 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\update-browserslist-db\utils.js133110717858808423 0
@@ -83,7 +83,7 @@
 55C:\Users\Fehmi\Desktop\SASS\node_modules\domelementtype133110717862888689 1
 72C:\Users\Fehmi\Desktop\SASS\node_modules\lightningcss\node\index.js.flow133110717854629459 0
 47C:\Users\Fehmi\Desktop\SASS\node_modules\base-x133110717857349496 1
-32C:\Users\Fehmi\Desktop\SASS\dist133111791881777391 1
+32C:\Users\Fehmi\Desktop\SASS\dist133113582298734094 1
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\IT.js133110717921817760 0
 45C:\Users\Fehmi\Desktop\SASS\node_modules\csso133110717888298179 1
 99C:\Users\Fehmi\Desktop\SASS\01_Day_1\03_Partials_and_importing\01_Exercises\scss\settings\_all.scss133110892401326061 0
@@ -103,7 +103,7 @@
 56C:\Users\Fehmi\Desktop\SASS\node_modules\nan\doc\json.md133110717880248900 0
 58C:\Users\Fehmi\Desktop\SASS\node_modules\@msgpackr-extract133110741030494132 1
 69C:\Users\Fehmi\Desktop\SASS\node_modules\nth-check\lib\esm\index.d.ts133110717873181899 0
-40C:\Users\Fehmi\Desktop\SASS\package.json133111789178650128 0
+40C:\Users\Fehmi\Desktop\SASS\package.json133113499972928243 0
 77C:\Users\Fehmi\Desktop\SASS\node_modules\csso\lib\replace\atrule\keyframes.js133110717881948466 0
 75C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\lib\CommittedAsset.js133110717887239469 0
 71C:\Users\Fehmi\Desktop\SASS\node_modules\type-fest\ts41\kebab-case.d.ts133110717870430348 0
@@ -286,6 +286,7 @@
 93C:\Users\Fehmi\Desktop\SASS\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts133110717869682167 0
 65C:\Users\Fehmi\Desktop\SASS\node_modules\to-regex-range\README.md133110725850085843 0
 52C:\Users\Fehmi\Desktop\SASS\node_modules\yaml\seq.js133110717881787082 0
+54C:\Users\Fehmi\Desktop\SASS\dist\project2.9392db0f.jpg133113499077003565 0
 78C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\transformer-svg\src\inline.js133110717859880658 0
 80C:\Users\Fehmi\Desktop\SASS\node_modules\svgo\plugins\cleanupEnableBackground.js133110717865154017 0
 74C:\Users\Fehmi\Desktop\SASS\node_modules\mdn-data\css\syntaxes.schema.json133110717873746169 0
@@ -293,16 +294,18 @@
 66C:\Users\Fehmi\Desktop\SASS\node_modules\resolve-from\package.json133110717852384719 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\SA.js133110717935369611 0
 80C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\graph\test\ContentGraph.test.js133110717864504943 0
+60C:\Users\Fehmi\Desktop\SASS\dist\01_Mobile_First.d0d27b33.js133113263858404755 0
 53C:\Users\Fehmi\Desktop\SASS\node_modules\resolve-from133110717856783746 1
 55C:\Users\Fehmi\Desktop\SASS\node_modules\dom-serializer133110717865682577 1
 79C:\Users\Fehmi\Desktop\SASS\node_modules\utility-types\dist\mapped-types.js.map133110717864649661 0
 86C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133110717854026195 0
-73C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\01_Bear\scss\main.scss133110709115404911 0
+73C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\01_Bear\scss\main.scss133113428499802900 0
 64C:\Users\Fehmi\Desktop\SASS\node_modules\sass\types\options.d.ts133110725861366635 0
 49C:\Users\Fehmi\Desktop\SASS\node_modules\escalade133110717862449856 1
 57C:\Users\Fehmi\Desktop\SASS\node_modules\chokidar\LICENSE133110725849096742 0
 93C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133110717866677802 0
 51C:\Users\Fehmi\Desktop\SASS\node_modules\domhandler133110717861761701 1
+51C:\Users\Fehmi\Desktop\SASS\dist\stars.31d876a7.png133113505200897164 0
 66C:\Users\Fehmi\Desktop\SASS\node_modules\sass\types\value\map.d.ts133110725861187113 0
 69C:\Users\Fehmi\Desktop\SASS\node_modules\htmlnano\docs\versioned_docs133110717888220344 1
 73C:\Users\Fehmi\Desktop\SASS\node_modules\node-gyp-build-optional-packages133110717860953860 1
@@ -334,7 +337,7 @@
 65C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\src\compression.cpp133110717891367828 0
 66C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\markdown-ansi\src133110717856042418 1
 71C:\Users\Fehmi\Desktop\SASS\node_modules\yaml\browser\dist\parse-cst.js133110717871038203 0
-75C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\04_Rocket\scss\main.scss133110709115736645 0
+75C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\04_Rocket\scss\main.scss133113582297261793 0
 94C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\css-overscroll-behavior.js133110717897910080 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\IM.js133110717918947026 0
 60C:\Users\Fehmi\Desktop\SASS\node_modules\msgpackr\index.d.ts133110717881888559 0
@@ -344,6 +347,7 @@
 63C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\README.md133110717943925645 0
 64C:\Users\Fehmi\Desktop\SASS\node_modules\dotenv-expand\README.md133110717858838365 0
 108C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module133110717892936179 1
+52C:\Users\Fehmi\Desktop\SASS\dist\01_Bear.4f9ca055.js133113377266455333 0
 92C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\css-media-interaction.js133110717897493783 0
 50C:\Users\Fehmi\Desktop\SASS\node_modules\immutable133110725853998012 1
 100C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133110717872483766 0
@@ -399,6 +403,7 @@
 90C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133110717890727748 0
 66C:\Users\Fehmi\Desktop\SASS\node_modules\type-fest\ts41\index.d.ts133110717869532215 0
 67C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\graph\src\index.js133110717867867608 0
+62C:\Users\Fehmi\Desktop\SASS\dist\01_Exercise_1.cc643343.js.map133113300313763165 0
 76C:\Users\Fehmi\Desktop\SASS\node_modules\type-fest\source\readonly-deep.d.ts133110717878315086 0
 53C:\Users\Fehmi\Desktop\SASS\node_modules\yaml\LICENSE133110717852414651 0
 49C:\Users\Fehmi\Desktop\SASS\node_modules\mdn-data133110717875743634 1
@@ -459,6 +464,7 @@
 69C:\Users\Fehmi\Desktop\SASS\node_modules\css-tree\lib\parser\index.js133110717889827640 0
 63C:\Users\Fehmi\Desktop\SASS\node_modules\supports-color\license133110717852484453 0
 65C:\Users\Fehmi\Desktop\SASS\node_modules\source-map\source-map.js133110717857499876 0
+58C:\Users\Fehmi\Desktop\SASS\dist\03_Exercise_3.00a449df.js133113320214105610 0
 54C:\Users\Fehmi\Desktop\SASS\node_modules\parent-module133110717856763353 1
 50C:\Users\Fehmi\Desktop\SASS\node_modules\path-type133110717858354274 1
 69C:\Users\Fehmi\Desktop\SASS\01_Day_1\02_Nesting\.config\exercises.yml133110709113330693 0
@@ -488,6 +494,7 @@
 56C:\Users\Fehmi\Desktop\SASS\node_modules\posthtml-parser133110717861552262 1
 95C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one133110717897207642 1
 72C:\Users\Fehmi\Desktop\SASS\node_modules\source-map\lib\binary-search.js133110717862918605 0
+51C:\Users\Fehmi\Desktop\SASS\dist\index.707c797a.css133113273094300520 0
 104C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133110717896995608 0
 56C:\Users\Fehmi\Desktop\SASS\node_modules\posthtml-render133110717859169455 1
 91C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\prefers-color-scheme.js133110717934234345 0
@@ -536,6 +543,7 @@
 59C:\Users\Fehmi\Desktop\SASS\node_modules\source-map-support133110717861991085 1
 80C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\packager-svg\lib\SVGPackager.js133110717854773858 0
 82C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\fixtures\custom-targets133110717896905846 1
+51C:\Users\Fehmi\Desktop\SASS\dist\index.1fc8bf03.css133113316104947291 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\NA.js133110717931964633 0
 60C:\Users\Fehmi\Desktop\SASS\node_modules\is-extglob\index.js133110725850988274 0
 47C:\Users\Fehmi\Desktop\SASS\node_modules\stable133110717858294454 1
@@ -830,6 +838,7 @@
 55C:\Users\Fehmi\Desktop\SASS\dist\index.859b1a76.css.map133111778547605413 0
 66C:\Users\Fehmi\Desktop\SASS\node_modules\weak-lru-cache\index.d.ts133110717863782651 0
 140C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo\bar\baz133110717893125677 1
+52C:\Users\Fehmi\Desktop\SASS\dist\rabbit.c3ce557b.png133113300313843128 0
 64C:\Users\Fehmi\Desktop\SASS\node_modules\weak-lru-cache\index.js133110717856423426 0
 89C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\css-widows-orphans.js133110717899018863 0
 70C:\Users\Fehmi\Desktop\SASS\node_modules\weak-lru-cache\LRFUExpirer.js133110717858003858 0
@@ -1231,7 +1240,7 @@
 73C:\Users\Fehmi\Desktop\SASS\node_modules\term-size\vendor\macos\term-size133110717858473956 0
 68C:\Users\Fehmi\Desktop\SASS\node_modules\source-map-js\lib\base64.js133110725851273588 0
 71C:\Users\Fehmi\Desktop\SASS\node_modules\nth-check\lib\esm\compile.d.ts133110717872354113 0
-71C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\04_Rocket\index.html133110709115725906 0
+71C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\04_Rocket\index.html133113500064140409 0
 50C:\Users\Fehmi\Desktop\SASS\node_modules\svgo\dist133110717890518136 1
 93C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js133110717864484999 0
 65C:\Users\Fehmi\Desktop\SASS\node_modules\is-binary-path\readme.md133110725851481193 0
@@ -1399,7 +1408,7 @@
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\BI.js133110717889953858 0
 65C:\Users\Fehmi\Desktop\SASS\node_modules\normalize-path\README.md133110725850918420 0
 63C:\Users\Fehmi\Desktop\SASS\node_modules\css-tree\lib\generator133110717893956086 1
-82C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\03_Exercise_3\scss\main.scss133110709115352253 0
+82C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\03_Exercise_3\scss\main.scss133113326343461334 0
 89C:\Users\Fehmi\Desktop\SASS\node_modules\source-map-support\browser-source-map-support.js133110717853639076 0
 68C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\transformer-css\src133110717856182039 1
 89C:\Users\Fehmi\Desktop\SASS\01_Day_1\03_Partials_and_importing\01_Exercises\scss\settings133110874356036117 1
@@ -1540,6 +1549,7 @@
 73C:\Users\Fehmi\Desktop\SASS\node_modules\sass\types\legacy\exception.d.ts133110725860616098 0
 84C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\lib\TargetDescriptor.schema.js133110717895706550 0
 71C:\Users\Fehmi\Desktop\SASS\node_modules\sass\types\legacy\options.d.ts133110725861326760 0
+53C:\Users\Fehmi\Desktop\SASS\dist\planet2.cdeb5117.png133113505200947114 0
 100C:\Users\Fehmi\Desktop\SASS\node_modules\dom-serializer\node_modules\entities\lib\maps\entities.json133110717862689220 0
 82C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\canvas-text.js133110717892719749 0
 87C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\multibackgrounds.js133110717931681422 0
@@ -1762,6 +1772,7 @@
 58C:\Users\Fehmi\Desktop\SASS\node_modules\parcel\lib\cli.js133110717858613580 0
 77C:\Users\Fehmi\Desktop\SASS\node_modules\htmlparser2\lib\FeedHandler.d.ts.map133110717863184139 0
 60C:\Users\Fehmi\Desktop\SASS\node_modules\nth-check\README.md133110717871058146 0
+51C:\Users\Fehmi\Desktop\SASS\dist\index.e5528b24.css133113582298734094 0
 61C:\Users\Fehmi\Desktop\SASS\node_modules\ordered-binary\.idea133110717865403328 1
 60C:\Users\Fehmi\Desktop\SASS\node_modules\ordered-binary\dist133110717854026195 1
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\EE.js133110717900746425 0
@@ -1837,6 +1848,7 @@
 67C:\Users\Fehmi\Desktop\SASS\node_modules\nth-check\lib\index.js.map133110717868485021 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\JP.js133110717922750140 0
 69C:\Users\Fehmi\Desktop\SASS\node_modules\nth-check\lib\parse.d.ts.map133110717869632263 0
+51C:\Users\Fehmi\Desktop\SASS\dist\index.af0bafc0.css133113273664196929 0
 98C:\Users\Fehmi\Desktop\SASS\node_modules\dom-serializer\node_modules\entities\lib\maps\decode.json133110717861173328 0
 87C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c133110717888768362 0
 74C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133110717893726712 0
@@ -1889,6 +1901,7 @@
 79C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\transformer-babel\lib\utils.js133110717870564327 0
 68C:\Users\Fehmi\Desktop\SASS\node_modules\node-gyp-build\package.json133110717860179566 0
 66C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\dependencies\lz4\lib133110717895111668 1
+51C:\Users\Fehmi\Desktop\SASS\dist\index.b15452c4.css133113499077361377 0
 68C:\Users\Fehmi\Desktop\SASS\node_modules\node-addon-api\CHANGELOG.md133110717870437104 0
 67C:\Users\Fehmi\Desktop\SASS\node_modules\node-addon-api\common.gypi133110717855277351 0
 64C:\Users\Fehmi\Desktop\SASS\node_modules\node-addon-api\index.js133110717868285554 0
@@ -2165,6 +2178,7 @@
 89C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\fixtures\common-targets-ignore133110717896776192 1
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\IQ.js133110717921100630 0
 100C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133110717881129251 0
+61C:\Users\Fehmi\Desktop\SASS\dist\02_Exercises.131d8e39.js.map133113499077093290 0
 104C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133110717895666651 0
 67C:\Users\Fehmi\Desktop\SASS\node_modules\css-what\lib\es\parse.d.ts133110717872545217 0
 100C:\Users\Fehmi\Desktop\SASS\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.1133110717871137933 0
@@ -2604,7 +2618,7 @@
 55C:\Users\Fehmi\Desktop\SASS\node_modules\domhandler\lib133110717863474953 1
 89C:\Users\Fehmi\Desktop\SASS\node_modules\@swc\helpers\lib\_is_native_reflect_construct.js133110717887560584 0
 84C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\transformer-svg\src\dependencies.js133110717856520359 0
-82C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\02_Exercise_2\scss\main.scss133110709115148741 0
+82C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\02_Exercise_2\scss\main.scss133113320013690042 0
 64C:\Users\Fehmi\Desktop\SASS\node_modules\domhandler\package.json133110717857963972 0
 81C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\web-serial.js133110717942648363 0
 65C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\packager-css\src133110717856231914 1
@@ -2679,6 +2693,7 @@
 60C:\Users\Fehmi\Desktop\SASS\node_modules\detect-libc\LICENSE133110717857632148 0
 65C:\Users\Fehmi\Desktop\SASS\node_modules\detect-libc\package.json133110717852624072 0
 71C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\watcher\src\DirTree.cc133110717861362762 0
+58C:\Users\Fehmi\Desktop\SASS\dist\04_Rocket.49f30617.js.map133113505201036782 0
 71C:\Users\Fehmi\Desktop\SASS\node_modules\detect-libc\lib\detect-libc.js133110717861043618 0
 71C:\Users\Fehmi\Desktop\SASS\node_modules\detect-libc\bin\detect-libc.js133110717859498578 0
 49C:\Users\Fehmi\Desktop\SASS\node_modules\csso\lib133110717886531542 1
@@ -3004,6 +3019,7 @@
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\CA.js133110717892511387 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\CL.js133110717893646916 0
 78C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\ac3-ec3.js133110717858493904 0
+54C:\Users\Fehmi\Desktop\SASS\dist\project1.27f07b81.jpg133113499077013731 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\CN.js133110717893916201 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\CO.js133110717893976039 0
 82C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\text-stroke.js133110717937763848 0
@@ -3028,6 +3044,7 @@
 97C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage133110717885407741 1
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\GT.js133110717917857095 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\HN.js133110717918350240 0
+50C:\Users\Fehmi\Desktop\SASS\dist\fire.c7d9444b.png133113505200897164 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\ID.js133110717918746345 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\IE.js133110717918767485 0
 62C:\Users\Fehmi\Desktop\SASS\node_modules\acorn\dist\acorn.d.ts133110717867923452 0
@@ -3053,7 +3070,7 @@
 117C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude133110717892671226 1
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\ME.js133110717930332074 0
 91C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\fixtures\config-plugin-not-found133110717862669280 1
-93C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\02_Exercises\scss\partials\_exercise1.scss133110709115487794 0
+93C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\02_Exercises\scss\partials\_exercise1.scss133113499325733302 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\MG.js133110717930684209 0
 73C:\Users\Fehmi\Desktop\SASS\node_modules\.bin\download-msgpackr-prebuilds133110717944434827 0
 72C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\regions\MK.js133110717930831179 0
@@ -3166,6 +3183,7 @@
 75C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\src\Transformation.js133110717896055610 0
 82C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\audiotracks.js133110717885248147 0
 80C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\autofocus.js133110717885467584 0
+64C:\Users\Fehmi\Desktop\SASS\dist\01_Mobile_First.d0d27b33.js.map133113263858404755 0
 152C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo\bar\baz\real-bar.js133110717890125545 0
 79C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\auxclick.js133110717885880154 0
 74C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\av1.js133110717886309018 0
@@ -3235,6 +3253,7 @@
 98C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json133110717896935766 0
 85C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\css-exclusions.js133110717896447072 0
 86C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\rest-parameters.js133110717935035609 0
+51C:\Users\Fehmi\Desktop\SASS\dist\index.f13ccd70.css133113300874102724 0
 90C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\css-filter-function.js133110717896566758 0
 87C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\css-first-letter.js133110717896636573 0
 80C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\css-fixed.js133110717896706383 0
@@ -3413,7 +3432,7 @@
 76C:\Users\Fehmi\Desktop\SASS\01_Day_1\02_Nesting\01_Styling_with_nesting\scss133110838025636576 1
 86C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js133110717860355469 0
 77C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\hidden.js133110717918193382 0
-74C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\01_Mobile_First\index.html133110709114992510 0
+74C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\01_Mobile_First\index.html133113273312183947 0
 91C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\high-resolution-time.js133110717918225243 0
 78C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\history.js133110717918254310 0
 89C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\html-media-capture.js133110717918461001 0
@@ -3496,6 +3515,7 @@
 65C:\Users\Fehmi\Desktop\SASS\node_modules\@swc\helpers\lib\_jsx.js133110717888166635 0
 78C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\netinfo.js133110717932121931 0
 84C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\notifications.js133110717932407675 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.ba07e016.css.map133113324152831771 0
 70C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\watcher\src\Signal.hh133110717875012061 0
 84C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\object-values.js133110717932733167 0
 83C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\offline-apps.js133110717932836945 0
@@ -3639,6 +3659,7 @@
 81C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\word-break.js133110717943417005 0
 76C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\xhtml.js133110717943664805 0
 80C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\xhtmlsmil.js133110717943694761 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.b15452c4.css.map133113499077361377 0
 85C:\Users\Fehmi\Desktop\SASS\node_modules\caniuse-lite\data\features\xml-serializer.js133110717943724673 0
 61C:\Users\Fehmi\Desktop\SASS\node_modules\callsites\index.d.ts133110717854015809 0
 63C:\Users\Fehmi\Desktop\SASS\node_modules\callsites\package.json133110717852384719 0
@@ -3685,6 +3706,7 @@
 64C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\packager-js\src133110717870998302 1
 51C:\Users\Fehmi\Desktop\SASS\node_modules\acorn\dist133110717868345387 1
 69C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\events\src\errors.js133110717861133380 0
+54C:\Users\Fehmi\Desktop\SASS\dist\project3.3194a036.jpg133113499077023653 0
 54C:\Users\Fehmi\Desktop\SASS\node_modules\acorn\LICENSE133110717854503681 0
 56C:\Users\Fehmi\Desktop\SASS\node_modules\acorn\README.md133110717864689556 0
 61C:\Users\Fehmi\Desktop\SASS\node_modules\acorn\dist\acorn.mjs133110717867453690 0
@@ -4066,6 +4088,7 @@
 90C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs133110717891557739 0
 62C:\Users\Fehmi\Desktop\SASS\dist\08_Exercise_8.cd654d0f.js.map133111788860233400 0
 92C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\source-map\parcel_sourcemap_node\Cargo.toml133110717892347758 0
+52C:\Users\Fehmi\Desktop\SASS\dist\rabbit.387b4ef0.png133113312643649788 0
 90C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133110717863924973 0
 85C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\source-map\parcel_sourcemap_node\src133110717891597621 1
 113C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node133110717882850890 0
@@ -4204,7 +4227,7 @@
 83C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\lib\serializerCore.browser.js133110717895237807 0
 90C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\package-manager\src\NodePackageManager.js133110717873845105 0
 84C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\package-manager\src\NodeResolver.js133110717874921351 0
-82C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\01_Exercise_1\scss\main.scss133110709115148741 0
+82C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\01_Exercise_1\scss\main.scss133113301846069599 0
 90C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\package-manager\src\promiseFromProcess.js133110717879231616 0
 95C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js133110717880238924 0
 77C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\package-manager\lib\index.js133110717860127939 0
@@ -4390,7 +4413,7 @@
 95C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src133110717890617872 1
 103C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\fixtures\invalid-source-missing\package.json133110717896985629 0
 97C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json133110717896945743 0
-78C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\02_Exercise_2\index.html133110709115148741 0
+78C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\02_Exercise_2\index.html133113311652898315 0
 103C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json133110717896895871 0
 103C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133110717896885900 0
 105C:\Users\Fehmi\Desktop\SASS\node_modules\@parcel\core\test\fixtures\custom-format-infer-type\package.json133110717896865953 0
@@ -4543,9 +4566,10 @@
 87C:\Users\Fehmi\Desktop\SASS\node_modules\@babel\highlight\node_modules\has-flag\license133110717855880242 0
 92C:\Users\Fehmi\Desktop\SASS\node_modules\@babel\highlight\node_modules\has-flag\package.json133110717853122110 0
 96C:\Users\Fehmi\Desktop\SASS\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json133110717861422601 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.f13ccd70.css.map133113300874182785 0
 90C:\Users\Fehmi\Desktop\SASS\node_modules\@babel\highlight\node_modules\color-name\index.js133110717858950033 0
 94C:\Users\Fehmi\Desktop\SASS\node_modules\@babel\highlight\node_modules\color-name\package.json133110717853102161 0
-78C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\01_Exercise_1\index.html133110709115148741 0
+78C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\01_Exercise_1\index.html133113301398099247 0
 91C:\Users\Fehmi\Desktop\SASS\node_modules\@babel\highlight\node_modules\color-name\README.md133110717855834686 0
 89C:\Users\Fehmi\Desktop\SASS\node_modules\@babel\highlight\node_modules\color-name\test.js133110717860355469 0
 99C:\Users\Fehmi\Desktop\SASS\node_modules\@babel\highlight\node_modules\color-convert\conversions.js133110717856291756 0
@@ -4599,17 +4623,25 @@
 54C:\Users\Fehmi\Desktop\SASS\node_modules\.bin\svgo.cmd133110717944444794 0
 54C:\Users\Fehmi\Desktop\SASS\node_modules\.bin\svgo.ps1133110717944444794 0
 52C:\Users\Fehmi\Desktop\SASS\node_modules\.bin\terser133110717944454764 0
+56C:\Users\Fehmi\Desktop\SASS\dist\01_Bear.4f9ca055.js.map133113377266478066 0
 62C:\Users\Fehmi\Desktop\SASS\dist\01_Exercise_1.215f3088.js.map133111572151064132 0
+58C:\Users\Fehmi\Desktop\SASS\dist\01_Exercise_1.cc643343.js133113300313443340 0
 62C:\Users\Fehmi\Desktop\SASS\dist\01_Exercise_1.dfbe5c4c.js.map133111607916622038 0
 60C:\Users\Fehmi\Desktop\SASS\dist\01_Placeholders.c4fd331b.js133111549145400999 0
 64C:\Users\Fehmi\Desktop\SASS\dist\01_Placeholders.c4fd331b.js.map133111549145400999 0
+57C:\Users\Fehmi\Desktop\SASS\dist\02_Exercises.131d8e39.js133113499077053394 0
 58C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.1225d767.js133111581955815680 0
 62C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.1225d767.js.map133111581955895661 0
 58C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.1f00684e.js133111641519201324 0
 58C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.1f38fe7f.js133111705812461803 0
 62C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.1f38fe7f.js.map133111705812481734 0
+58C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.46df678c.js133113312643659759 0
+62C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.46df678c.js.map133113312643679701 0
 58C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.edcd9a84.js133111772378183758 0
 62C:\Users\Fehmi\Desktop\SASS\dist\02_Exercise_2.edcd9a84.js.map133111772378263676 0
+66C:\Users\Fehmi\Desktop\SASS\dist\02_Flexbox_Holy_Grail.2ac1b6f3.js133113273503865262 0
+70C:\Users\Fehmi\Desktop\SASS\dist\02_Flexbox_Holy_Grail.2ac1b6f3.js.map133113273503945200 0
+62C:\Users\Fehmi\Desktop\SASS\dist\03_Exercise_3.00a449df.js.map133113320214116413 0
 62C:\Users\Fehmi\Desktop\SASS\dist\03_Exercise_3.74f7c09c.js.map133111698560965040 0
 58C:\Users\Fehmi\Desktop\SASS\dist\03_Exercise_3.eabd9315.js133111607461628725 0
 62C:\Users\Fehmi\Desktop\SASS\dist\03_Exercise_3.eabd9315.js.map133111607461708696 0
@@ -4619,6 +4651,7 @@
 58C:\Users\Fehmi\Desktop\SASS\dist\04_Exercise_4.1b628a50.js133111777889799770 0
 62C:\Users\Fehmi\Desktop\SASS\dist\04_Exercise_4.1b628a50.js.map133111777889799770 0
 58C:\Users\Fehmi\Desktop\SASS\dist\04_Exercise_4.3ec7b71d.js133111732479097420 0
+54C:\Users\Fehmi\Desktop\SASS\dist\04_Rocket.49f30617.js133113505200986958 0
 58C:\Users\Fehmi\Desktop\SASS\dist\05_Exercise_5.c7106a82.js133111779260729432 0
 62C:\Users\Fehmi\Desktop\SASS\dist\05_Exercise_5.c7106a82.js.map133111779260729432 0
 58C:\Users\Fehmi\Desktop\SASS\dist\05_Exercise_5.ef3e5f29.js133111751162824272 0
@@ -4629,6 +4662,7 @@
 58C:\Users\Fehmi\Desktop\SASS\dist\08_Exercise_8.cd654d0f.js133111788860233400 0
 58C:\Users\Fehmi\Desktop\SASS\dist\09_Exercise_9.45ed5cca.js133111789180786648 0
 62C:\Users\Fehmi\Desktop\SASS\dist\09_Exercise_9.45ed5cca.js.map133111789180786648 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.1fc8bf03.css.map133113316104947291 0
 55C:\Users\Fehmi\Desktop\SASS\dist\index.227f05dc.css.map133111781442301084 0
 58C:\Users\Fehmi\Desktop\SASS\09_Day_5_Workshop_Solution\css133110709116133156 1
 51C:\Users\Fehmi\Desktop\SASS\dist\index.2e4e3221.css133111780159189866 0
@@ -4637,8 +4671,11 @@
 55C:\Users\Fehmi\Desktop\SASS\dist\index.37e51258.css.map133111773707551646 0
 51C:\Users\Fehmi\Desktop\SASS\dist\index.4248b41a.css133111594595237872 0
 55C:\Users\Fehmi\Desktop\SASS\dist\index.4248b41a.css.map133111594595317804 0
+51C:\Users\Fehmi\Desktop\SASS\dist\index.538ab0cd.css133113428501153463 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.538ab0cd.css.map133113428501163896 0
 55C:\Users\Fehmi\Desktop\SASS\dist\index.5f64e6e9.css.map133111574868130194 0
 55C:\Users\Fehmi\Desktop\SASS\dist\index.60e8f80a.css.map133111642933905909 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.707c797a.css.map133113273094300520 0
 79C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\04_Rocket\images\planet3.png133110709115680210 0
 55C:\Users\Fehmi\Desktop\SASS\dist\index.75a77a47.css.map133111698772642676 0
 55C:\Users\Fehmi\Desktop\SASS\dist\index.7b22512f.css.map133111772086992116 0
@@ -4654,11 +4691,21 @@
 51C:\Users\Fehmi\Desktop\SASS\dist\index.8ded835c.css133111533957273515 0
 83C:\Users\Fehmi\Desktop\SASS\03_Day_2\05_Introduction_to_RWD_and_units\02_Exercise_2133110709114098716 1
 55C:\Users\Fehmi\Desktop\SASS\dist\index.8ded835c.css.map133111533957273515 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.af0bafc0.css.map133113273664196929 0
+51C:\Users\Fehmi\Desktop\SASS\dist\index.ba07e016.css133113324152831771 0
 51C:\Users\Fehmi\Desktop\SASS\dist\index.cffbb8e7.css133111791881777391 0
 55C:\Users\Fehmi\Desktop\SASS\dist\index.cffbb8e7.css.map133111791881777391 0
+55C:\Users\Fehmi\Desktop\SASS\dist\index.e5528b24.css.map133113582298734094 0
 51C:\Users\Fehmi\Desktop\SASS\dist\index.eb425239.css133111725487756353 0
 51C:\Users\Fehmi\Desktop\SASS\dist\index.fd94288d.css133111607459375917 0
-43C:\Users\Fehmi\Desktop\SASS\dist\index.html133111789180520062 0
+43C:\Users\Fehmi\Desktop\SASS\dist\index.html133113505200966975 0
+63C:\Users\Fehmi\Desktop\SASS\05_Day_3\01_Media_queries\README.md133110709114540357 0
+53C:\Users\Fehmi\Desktop\SASS\dist\planet1.97939063.png133113505200996889 0
+53C:\Users\Fehmi\Desktop\SASS\dist\planet3.920898da.png133113505201006862 0
+74C:\Users\Fehmi\Desktop\SASS\03_Day_2\04_Functions\01_Exercise_1\index.html133111701492374643 0
+53C:\Users\Fehmi\Desktop\SASS\dist\planet4.c059f419.png133113505200986958 0
+52C:\Users\Fehmi\Desktop\SASS\dist\rabbit.5e8ae02f.png133113320886440593 0
+52C:\Users\Fehmi\Desktop\SASS\dist\rocket.c8ade873.png133113505200986958 0
 62C:\Users\Fehmi\Desktop\SASS\09_Day_5_Workshop_Solution\.config133110709115960816 1
 56C:\Users\Fehmi\Desktop\SASS\04_Day_2_-_Homework\02_Units133110709114365997 1
 61C:\Users\Fehmi\Desktop\SASS\09_Day_5_Workshop_Solution\assets133110709116118584 1
@@ -4705,19 +4752,19 @@
 77C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\04_Rocket\images\stars.png133110709115714250 0
 75C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\03_Zombie\scss\main.scss133110709115622718 0
 80C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\03_Zombie\images\board-bg.jpg133110709115534578 0
-74C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\02_Exercises\index.html133110709115473383 0
+74C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\02_Exercises\index.html133113437611502514 0
 68C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\02_Exercises\scss133110709115487794 1
 78C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\02_Exercises\scss\main.scss133110709115480783 0
 77C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\02_Exercises\scss\partials133110709115507772 1
 94C:\Users\Fehmi\Desktop\SASS\03_Day_2\05_Introduction_to_RWD_and_units\07_Exercise_7\index.html133111785637997946 0
-93C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\02_Exercises\scss\partials\_exercise2.scss133110709115498259 0
-93C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\02_Exercises\scss\partials\_exercise3.scss133110709115511406 0
+93C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\02_Exercises\scss\partials\_exercise2.scss133113499342611592 0
+93C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\02_Exercises\scss\partials\_exercise3.scss133113499357853807 0
 83C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\02_Exercises\images\project2.jpg133110709115440975 0
-69C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\01_Bear\index.html133110709115394921 0
+69C:\Users\Fehmi\Desktop\SASS\07_Day_4\02_Animations\01_Bear\index.html133113326913859659 0
 67C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\02_Exercise_2133110709115148741 1
 67C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\03_Exercise_3133110709115352253 1
 74C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\03_Exercise_3\images133110709115305052 1
-78C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\03_Exercise_3\index.html133110709115342289 0
+78C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\03_Exercise_3\index.html133113320142894551 0
 85C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\03_Exercise_3\images\rabbit.png133110709115342289 0
 85C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\02_Exercise_2\images\rabbit.png133110709115148741 0
 74C:\Users\Fehmi\Desktop\SASS\07_Day_4\01_Elastic_media\01_Exercise_1\images133110709115148741 1
@@ -4728,10 +4775,10 @@
 69C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\02_Flexbox_Holy_Grail133110709114992510 1
 54C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\images133110709115148741 1
 57C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\README.md133110709115148741 0
-80C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\02_Flexbox_Holy_Grail\index.html133110709114992510 0
+80C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\02_Flexbox_Holy_Grail\index.html133113273525466177 0
 74C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\02_Flexbox_Holy_Grail\scss133110709114992510 1
-84C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\02_Flexbox_Holy_Grail\scss\main.scss133110709114992510 0
-78C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\01_Mobile_First\scss\main.scss133110709114992510 0
+84C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\02_Flexbox_Holy_Grail\scss\main.scss133113273705791569 0
+78C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\01_Mobile_First\scss\main.scss133113273327727008 0
 69C:\Users\Fehmi\Desktop\SASS\06_Day_3_-_Homework\.config\exercises.yml133110709114992510 0
 52C:\Users\Fehmi\Desktop\SASS\05_Day_3\02_Mobile_first133110709114591756 1
 46C:\Users\Fehmi\Desktop\SASS\05_Day_3\README.md133110709114992510 0
@@ -4767,7 +4814,6 @@
 61C:\Users\Fehmi\Desktop\SASS\04_Day_2_-_Homework\02_Units\scss133110709114383584 1
 74C:\Users\Fehmi\Desktop\SASS\05_Day_3\02_Mobile_first\.config\exercises.yml133110709114557447 0
 67C:\Users\Fehmi\Desktop\SASS\05_Day_3\01_Media_queries\03_Exercise_3133110709114495420 1
-63C:\Users\Fehmi\Desktop\SASS\05_Day_3\01_Media_queries\README.md133110709114540357 0
 78C:\Users\Fehmi\Desktop\SASS\05_Day_3\01_Media_queries\04_Exercise_4\index.html133110709114515403 0
 82C:\Users\Fehmi\Desktop\SASS\05_Day_3\01_Media_queries\04_Exercise_4\scss\main.scss133110709114530355 0
 78C:\Users\Fehmi\Desktop\SASS\05_Day_3\01_Media_queries\03_Exercise_3\index.html133110709114485446 0
@@ -4814,7 +4860,6 @@
 68C:\Users\Fehmi\Desktop\SASS\03_Day_2\04_Functions\03_Exercise_3\scss133110709113969590 1
 78C:\Users\Fehmi\Desktop\SASS\03_Day_2\04_Functions\03_Exercise_3\scss\main.scss133111725518201574 0
 74C:\Users\Fehmi\Desktop\SASS\03_Day_2\04_Functions\02_Exercise_2\index.html133111705810756876 0
-74C:\Users\Fehmi\Desktop\SASS\03_Day_2\04_Functions\01_Exercise_1\index.html133111701492374643 0
 68C:\Users\Fehmi\Desktop\SASS\03_Day_2\04_Functions\01_Exercise_1\scss133110709113922526 1
 67C:\Users\Fehmi\Desktop\SASS\03_Day_2\03_Logic_in_SASS\02_Exercise_2133110709113837320 1
 78C:\Users\Fehmi\Desktop\SASS\03_Day_2\03_Logic_in_SASS\03_Exercise_3\index.html133111646965734242 0

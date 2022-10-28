@@ -57,14 +57,24 @@
     align-items: center;
     background: radial-gradient(rgba($color, 0.6), rgba($color, 0.8));
   }
-
   &-title {
     font-weight: bold;
     font-size: 16px;
+    opacity: 0;
+    transition: 1.5s;
   }
-
   &-text {
     font-size: 13px;
     color: rgba(#fff, 0.8);
+    opacity: 0;
+    transition: 1.5s;
+  }
+}
+a :hover {
+  .project-text {
+    opacity: 1;
+  }
+  .project-title {
+    opacity: 1;
   }
 }

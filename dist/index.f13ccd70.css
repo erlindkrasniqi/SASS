@@ -1,0 +1,38 @@
+.images {
+  display: flex;
+}
+
+@media only screen and (max-width: 900px) {
+  .images {
+    display: block;
+  }
+}
+
+.images img {
+  width: 50%;
+}
+
+@media only screen and (max-width: 900px) {
+  .images img {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+.images div {
+  width: 50%;
+  background-image: url("rabbit.c3ce557b.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+@media only screen and (max-width: 900px) {
+  .images div {
+    width: 100%;
+    height: 30em;
+    background-repeat: no-repeat;
+  }
+}
+
+/*# sourceMappingURL=index.f13ccd70.css.map */

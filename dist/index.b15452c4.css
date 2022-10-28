@@ -1,0 +1,267 @@
+.exercise1 {
+  display: flex;
+}
+
+.test {
+  min-height: 400px;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.test1 {
+  background: tomato;
+}
+
+.loading1 {
+  width: 30px;
+  height: 80px;
+  border: 1px solid #fff;
+  border-radius: 20px;
+}
+
+.loading11 {
+  width: 20px;
+  height: 20px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  margin: 4px 4px 56px;
+  animation: 1.5s infinite alternate rrethi;
+  position: relative;
+}
+
+@keyframes rrethi {
+  from {
+    top: 0%;
+  }
+
+  to {
+    margin-top: 56px;
+    margin-bottom: 7px;
+  }
+}
+
+.test2 {
+  background: #9370db;
+}
+
+.loading2 {
+  width: 50px;
+  height: 50px;
+  border: 5px solid #f3f3f3;
+  border-top-color: gray;
+  border-radius: 50%;
+  animation: 2s linear infinite spin;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.test3 {
+  background: #00fa9a;
+}
+
+.test3 .loading3 span {
+  height: 40px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin-left: 2px;
+  padding: 3px;
+  animation: 2.5s ease-in-out infinite scaling;
+  display: inline-block;
+}
+
+@keyframes scaling {
+  0%, 100% {
+    transform: scale(.2);
+  }
+
+  50% {
+    transform: scale(1.2);
+  }
+}
+
+.test3 .loading3 span:nth-child(1) {
+  animation-delay: .2s;
+}
+
+.test3 .loading3 span:nth-child(2) {
+  animation-delay: .4s;
+}
+
+.test3 .loading3 span:nth-child(3) {
+  animation-delay: .6s;
+}
+
+.test3 .loading3 span:nth-child(4) {
+  animation-delay: .8s;
+}
+
+.test3 .loading3 span:nth-child(5) {
+  animation-delay: 1s;
+}
+
+.exercise2 {
+  min-height: 50vh;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+  display: flex;
+}
+
+.red-button {
+  color: #dc143c;
+  text-transform: uppercase;
+  cursor: pointer;
+  background: none;
+  border: 0;
+  border-radius: 40px;
+  margin: 10px;
+  padding: 20px 40px;
+  overflow: hidden;
+  box-shadow: inset 0 0 0 3px #dc143c;
+}
+
+.red-button:hover {
+  background-color: #2aff2a;
+  font-weight: bold;
+}
+
+.red-button:hover:before {
+  content: ">>>";
+}
+
+.red-button:hover:after {
+  content: "<<<";
+}
+
+.blue-button {
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+  background: #1e90ff;
+  border: 0;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 20px 40px;
+}
+
+.blue-button:hover {
+  background-color: #44922d;
+  border: 5px dotted red;
+  transform: rotate3d(1, 1, 1, 45deg);
+}
+
+.green-button {
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+  background: #2feb73;
+  border: 0;
+  margin: 10px;
+  padding: 20px 40px;
+}
+
+.green-button:hover {
+  animation: 2s infinite alternate pulse;
+}
+
+@keyframes pulse {
+  from {
+    transform: rotate3d(0);
+  }
+
+  to {
+    transform: rotate3d(1, 1, 1, -45deg);
+  }
+}
+
+.portfolio-projects {
+  background: #fafafa;
+  padding: 100px 20px;
+}
+
+.portfolio-projects-list {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+}
+
+@media (max-width: 800px) {
+  .portfolio-projects-list {
+    flex-wrap: wrap;
+  }
+}
+
+.project {
+  vertical-align: top;
+  margin: 0;
+  padding: 10px;
+  display: inline-block;
+}
+
+@media (max-width: 800px) {
+  .project {
+    width: 100%;
+  }
+}
+
+.project-link {
+  vertical-align: top;
+  width: 100%;
+  font-family: sans-serif;
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+}
+
+.project-img {
+  width: 100%;
+  transition: all 1s;
+  display: block;
+}
+
+.project-overflow {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  background: radial-gradient(#4449, #444c);
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.project-title {
+  opacity: 0;
+  font-size: 16px;
+  font-weight: bold;
+  transition: all 1.5s;
+}
+
+.project-text {
+  color: #fffc;
+  opacity: 0;
+  font-size: 13px;
+  transition: all 1.5s;
+}
+
+a :hover .project-text, a :hover .project-title {
+  opacity: 1;
+}
+
+/*# sourceMappingURL=index.b15452c4.css.map */

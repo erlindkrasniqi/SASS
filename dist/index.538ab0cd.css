@@ -1,0 +1,344 @@
+body {
+  min-height: 100vh;
+  background: linear-gradient(#7dcaff 0%, #fff 30%, #ffffc2 54%, #3ec065 56%, #70f223 100%);
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  display: flex;
+}
+
+#bear {
+  text-align: center;
+  width: 200px;
+  height: 370px;
+  margin: 50px auto;
+  position: relative;
+}
+
+#bear:after {
+  content: "";
+  width: 400px;
+  height: 60px;
+  filter: blur(5px);
+  background: #0000001a;
+  border-radius: 50%;
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.head-cnt {
+  width: 230px;
+  height: 180px;
+  z-index: 2;
+  transform-origin: 50% 90%;
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.head-bg {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(#e8a554 40%, #db914a 99%);
+  border-radius: 50%;
+  position: relative;
+  box-shadow: 0 3px 10px #6a45281a;
+}
+
+.ears {
+  width: 100%;
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.ear {
+  width: 80px;
+  height: 80px;
+  background: linear-gradient(#efc767 0%, #ca7c3a 100%);
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+}
+
+.ear:before {
+  content: "";
+  height: 50px;
+  width: 50px;
+  background: linear-gradient(#975d2d 0%, #6f4326 100%);
+  border-radius: 50%;
+  position: absolute;
+  bottom: 16px;
+  right: 13px;
+}
+
+.ear-left {
+  left: 0;
+}
+
+.ear-right {
+  right: 0;
+}
+
+.eyes {
+  width: 120px;
+  height: 70px;
+  z-index: 2;
+  position: absolute;
+  top: 36px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.eye {
+  width: 50px;
+  height: 70px;
+  z-index: 2;
+  background: linear-gradient(135deg, #e2a04c 0%, #efaf58 99%);
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+}
+
+.eye:before {
+  content: "";
+  height: 40px;
+  width: 49px;
+  border-top: 5px solid #89542a;
+  border-radius: 50% 50% 0 0;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.eye-left {
+  left: 0;
+  transform: rotate(-25deg);
+}
+
+.eye-right {
+  right: 0;
+  transform: rotate(25deg);
+}
+
+.eyeball {
+  height: 20px;
+  width: 20px;
+  background: linear-gradient(45deg, #99562c 10%, #6d4627 100%);
+  border-radius: 50%;
+  position: absolute;
+  top: 43px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.eyeball:before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  top: 3px;
+}
+
+.muzzle {
+  height: 65px;
+  width: 95px;
+  z-index: 3;
+  background-color: #e5ca9d;
+  border-radius: 50%;
+  display: block;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translate(-50%);
+  box-shadow: 0 3px 10px #6a452833;
+}
+
+.nose {
+  height: 40px;
+  width: 58px;
+  background-color: #66442a;
+  border-radius: 70% / 70% 70% 131% 131%;
+  position: absolute;
+  top: -5px;
+  left: 50%;
+  transform: translate(-50%);
+  box-shadow: 0 3px 10px #6a45284d;
+}
+
+.nose:after {
+  content: "";
+  height: 20px;
+  width: 2px;
+  background-color: #6a4528;
+  display: block;
+  position: absolute;
+  top: 34px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.mouth {
+  height: 20px;
+  width: 60px;
+  border-bottom: 3px solid #78421c;
+  border-radius: 0 0 90px 90px;
+  position: absolute;
+  top: 28px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.body {
+  width: 220px;
+  height: 230px;
+  z-index: 1;
+  position: absolute;
+  top: 115px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.belly {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  background: radial-gradient(#d38442 48%, #b75b26 99%);
+  border-radius: 50% / 60% 60% 40% 40%;
+  position: absolute;
+  top: 0;
+}
+
+.belly:after {
+  content: "";
+  height: 140px;
+  width: 140px;
+  z-index: 2;
+  background-color: #fdedd3;
+  border-radius: 70% / 90% 90% 50% 50%;
+  display: inline-block;
+  position: relative;
+  top: 44px;
+}
+
+.hands {
+  width: 160px;
+  height: 20px;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.hand-left {
+  height: 60px;
+  width: 130px;
+  z-index: 1;
+  transform-origin: calc(100% - 10px);
+  background: linear-gradient(135deg, #d88946 14%, #e5ad4c 100%);
+  border-radius: 50%;
+  display: block;
+  position: absolute;
+  left: -100px;
+  transform: rotate(-20deg);
+}
+
+@keyframes move {
+  from {
+    transform: rotate(0);
+  }
+
+  to {
+    transform: rotate(100deg);
+  }
+}
+
+.hand-right {
+  height: 60px;
+  width: 130px;
+  z-index: 1;
+  transform-origin: 10px;
+  background: linear-gradient(135deg, #d88946 14%, #e5ad4c 100%);
+  border-radius: 50%;
+  display: block;
+  position: absolute;
+  right: -100px;
+  transform: rotate(20deg);
+}
+
+.hand-right:hover {
+  height: 60px;
+  width: 130px;
+  z-index: 1;
+  transform-origin: 10px;
+  background: linear-gradient(135deg, #d88946 14%, #e5ad4c 100%);
+  border-radius: 50%;
+  animation: 1s infinite move;
+  display: block;
+  position: absolute;
+  right: -100px;
+  transform: rotate(20deg);
+}
+
+.legs {
+  width: 100%;
+  z-index: 10;
+  height: 80px;
+  position: absolute;
+  bottom: 10px;
+}
+
+.leg-left {
+  width: 96px;
+  height: 120px;
+  background: linear-gradient(135deg, #df9a4c 41%, #d58443 90%);
+  border-radius: 50%;
+  position: absolute;
+  left: -10px;
+  transform: rotate(-45deg);
+}
+
+.leg-left:before {
+  content: "";
+  width: 80%;
+  height: 80%;
+  background: linear-gradient(135deg, #e2c897 14%, #fdedd3 100%);
+  border-radius: 50%;
+  display: block;
+  position: relative;
+  top: 10%;
+  left: 10%;
+}
+
+.leg-right {
+  width: 96px;
+  height: 120px;
+  background: linear-gradient(135deg, #df9a4c 41%, #d58443 90%);
+  border-radius: 50%;
+  position: absolute;
+  right: -10px;
+  transform: rotate(45deg);
+}
+
+.leg-right:before {
+  content: "";
+  width: 80%;
+  height: 80%;
+  background: linear-gradient(135deg, #e2c897 14%, #fdedd3 100%);
+  border-radius: 50%;
+  display: block;
+  position: relative;
+  top: 10%;
+  left: 10%;
+}
+
+/*# sourceMappingURL=index.538ab0cd.css.map */
